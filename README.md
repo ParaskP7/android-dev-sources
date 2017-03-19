@@ -75,4 +75,12 @@ All those android development sources that you need to be and stay awesome!
 |  | Android Weekly | http://androidweekly.net |
 |  | InfoQ | https://www.infoq.com/android |
 |  | JournalDev | http://www.journaldev.com |
-   
+| YouTube | Subscribe |  |
+|  | Android Developers | https://www.youtube.com/user/androiddevelopers |
+|  | touchlab | https://www.youtube.com/channel/UC_LIW0OUdsRI21D0xnWkexw |
+|  | Android Dialogs | https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug |
+|  | SquareEngineering | https://www.youtube.com/user/SquareEngineering |
+| YouTube | Search |  |
+|  | Droidcon |  |
+|  | Google IO Android |  |
+|  | Android Dev Summit |  |
