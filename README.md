@@ -22,13 +22,13 @@ All those android development sources that you need to be and stay awesome!
 |  | Clean Architecture | https://github.com/android10/Android-CleanArchitecture |
 |  | MVP | https://github.com/sockeqwe/mosby |
 |  | MVP & Clean Architecture | https://github.com/rallat/effectiveandroid |
-|  | Dagger | https://github.com/JakeWharton/u2020 |
-|  | Material Design | https://github.com/nickbutcher/plaid |
-|  | Material Design | https://github.com/googlesamples/android-topeka |
 |  | RxJava | https://github.com/realm/realm-java/tree/master/examples/rxJavaExample |
 |  | RxJava | https://github.com/kaushikgopal/RxJava-Android-Samples |
-|  | Quality | https://github.com/artem-zinnatullin/qualitymatters |
+|  | Dagger | https://github.com/JakeWharton/u2020 |
 |  | Testing | https://github.com/googlesamples/android-testing |
+|  | Quality | https://github.com/artem-zinnatullin/qualitymatters |
+|  | Material Design | https://github.com/nickbutcher/plaid |
+|  | Material Design | https://github.com/googlesamples/android-topeka |
 |  | Put It All Together | https://github.com/athkalia/Just-Another-Android-App |
 |  | Put It All Together | https://github.com/AndroidBootstrap/android-bootstrap |
 |  | What's Trending | https://github.com/trending?l=java |
