@@ -84,3 +84,16 @@ All those android development sources that you need to be and stay awesome!
 |  | Droidcon |  |
 |  | Google IO Android |  |
 |  | Android Dev Summit |  |
+| Community/Meetups |  |  |
+|  | All Android Development Meetups | https://www.meetup.com/topics/android-developers/all |
+| Community/Meetups | San Francisco & Silicon Valley |  |
+|  | The San Francisco & Silicon Valley Android Developers | https://www.meetup.com/svandroid |
+|  | The San Francisco Android User Group | https://www.meetup.com/sfandroid |
+|  | GDG San Francisco | https://www.meetup.com/google-developer-group-san-francisco |
+| Community/Meetups | London |  |
+|  | The London Android Group | https://www.meetup.com/android |
+|  | GDG London | http://www.gdg-london.com |
+| Community/Meetups | Berlin |  |
+|  | Berlin Android | http://berlindroid.de |
+|  | GDG Berlin Android | https://www.meetup.com/GDG-Berlin-Android |
+|  | GDG Berlin | https://www.meetup.com/gdgberlin |
