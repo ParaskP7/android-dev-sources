@@ -115,3 +115,10 @@ All those android development sources that you need to be and stay awesome!
 |  | YouTube Channels | (see relevant section) |
 |  | Community/Meetups | (see relevant section) |
 |  | Courses/Presentations | (see relevant section) |
+| Slack | Join |  |
+|  | Android United | android-united.slack.com |
+|  | Kotlin Language - Android | kotlinlang.slack.com |
+|  | Spec Network - Fragmented | specnetwork.slack.com |
+|  | Spec Network - Orthogonal | specnetwork.slack.com |
+| Slack | Local Community |  |
+|  | ADG Berlin | adg-berlin.slack.com |
