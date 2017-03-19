@@ -5,5 +5,9 @@ All those android development sources that you need to be and stay awesome!
 | ------------- | ------------- | ------------- |
 | RSS and News Aggregator |  |  |
 |  | Inoreader | https://www.inoreader.com |
-|  | Reddit - AndroidDev | https://www.reddit.com/r/androiddev/ |
-|  | Reddit - Android | https://www.reddit.com/r/Android/ |
+|  | Reddit - AndroidDev | https://www.reddit.com/r/androiddev |
+|  | Reddit - Android | https://www.reddit.com/r/Android |
+| Podcasts |  |  |
+|  | Fragmented | http://fragmentedpodcast.com/ |
+|  | Android Developers Backstage | http://androidbackstage.blogspot.de |
+|  | The Context #androiddev | https://github.com/artem-zinnatullin/TheContext-Podcast |
