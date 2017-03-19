@@ -172,3 +172,13 @@ All those android development sources that you need to be and stay awesome!
 |  | Talking TextView with Elliott Chenger - Performance| http://fragmentedpodcast.com/episodes/39 |
 |  | {dev} tips | https://tips.seebrock3r.me |
 |  | Android Studio for Experts | https://medium.com/@shemag8/android-studio-for-experts-cheat-sheet-efe892703d97#.fqwwmsifm |
+
+### Contributing guidelines
+
+If you would like to add a new entry to the list, create a new issue using template below:
+
+    **Category:** Lorem ipsum
+    **Title:** Lorem ipsum
+    **URL:** http://example.com
+
+As an issue title use `Add http://example.com`.
