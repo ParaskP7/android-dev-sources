@@ -122,3 +122,17 @@ All those android development sources that you need to be and stay awesome!
 |  | Spec Network - Orthogonal | specnetwork.slack.com |
 | Slack | Local Community |  |
 |  | ADG Berlin | adg-berlin.slack.com |
+| One Library Per Month |  |  |
+|  | RxJava | https://github.com/ReactiveX/RxJava |
+|  | RxAndroid | https://github.com/ReactiveX/RxJava | 
+|  | Dagger | https://github.com/google/dagger |
+|  | ButterKnife | https://github.com/JakeWharton/butterknife |
+|  | Retrofit | https://github.com/square/retrofit |
+|  | Realm | https://github.com/realm/realm-java |
+|  | Glide | https://github.com/bumptech/glide |
+|  | Stetho | https://github.com/facebook/stetho |
+|  | LeakCanary | https://github.com/square/leakcanary |
+|  | AutoValue | https://github.com/google/auto |
+|  | Parceler | https://github.com/johncarl81/parceler |
+|  | Android Arsenal | http://android-arsenal.com |
+|  | Material Up | https://material.uplabs.com |
