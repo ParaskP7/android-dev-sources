@@ -159,3 +159,16 @@ All those android development sources that you need to be and stay awesome!
 | Books | Refactoring |  |
 |  | Working Effectively with Legacy Code | Michael Feathers |
 |  | The Mikado Method | Ola Ellnestam and Daniel Brolund |
+| Productivity | Android Studio |  |
+|  | Key Promoter | Android Studio Plugin |
+|  | ADB IDEA | Android Studio Plugin |
+|  | AceJump | Android Studio Plugin |
+| Productivity | Techniques |  |
+|  | Hadi Hariri - Mouseless Driven Development | https://vimeo.com/98922030 |
+|  | Pomodoro Technique | https://cirillocompany.de/pages/pomodoro-technique |
+| Productivity | Tips |  |
+|  | AndroidDev tips and tricks from 2016 | http://fragmentedpodcast.com/episodes/048 |
+|  | Tips and tricks we picked from 2015 | http://fragmentedpodcast.com/episodes/28 |
+|  | Talking TextView with Elliott Chenger | Performance - http://fragmentedpodcast.com/episodes/39 |
+|  | {dev} tips | https://tips.seebrock3r.me |
+|  | Android Studio for Experts | https://medium.com/@shemag8/android-studio-for-experts-cheat-sheet-efe892703d97#.fqwwmsifm |
