@@ -70,3 +70,9 @@ All those android development sources that you need to be and stay awesome!
 |  | The Cheese Factory | https://inthecheesefactory.com/blog |
 | Blogs | GitHub |  |
 |  | Android Development Blogs | https://github.com/ziem/android-development-blogs |
+| Websites/Subscriptions |  |  |
+|  | Android Dev Digest | https://www.androiddevdigest.com |
+|  | Android Weekly | http://androidweekly.net |
+|  | InfoQ | https://www.infoq.com/android |
+|  | JournalDev | http://www.journaldev.com |
+   
