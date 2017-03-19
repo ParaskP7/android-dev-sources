@@ -141,3 +141,21 @@ All those android development sources that you need to be and stay awesome!
 |  | JavaScript | https://www.javascript.com |
 |  | C# | https://msdn.microsoft.com/en-us/library/a72418yk.aspx |
 |  | Swift | https://swift.org |
+| Books | Robert Martin (Uncle Bob) | http://blog.cleancoder.com |
+|  | Clean Architecture | https://vimeo.com/43612849 |
+|  | Clean Code |  |
+| Books | Kent Beck |  |
+|  | Test-Driven Development by Example |  | 
+|  | Implementation Patterns |  |
+| Books | Martin Fowler | https://martinfowler.com |
+|  | Refactoring: Improving the Design of Existing Code |  | 
+|  | Patterns of Enterprise Application Architecture |  | 
+| Books | Joshua Bloch |  |
+|  | Effective Java |  |
+|  | Java Puzzlers |  |
+| Books | Design Patterns |  |
+|  | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma, John Vlissides, Ralph Johnson and Richard Helm | 
+|  | Head First Design Patterns | Elisabeth Freeman |
+| Books | Refactoring |  |
+|  | Working Effectively with Legacy Code | Michael Feathers |
+|  | The Mikado Method | Ola Ellnestam and Daniel Brolund |
