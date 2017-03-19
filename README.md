@@ -75,12 +75,12 @@ All those android development sources that you need to be and stay awesome!
 |  | Android Weekly | http://androidweekly.net |
 |  | InfoQ | https://www.infoq.com/android |
 |  | JournalDev | http://www.journaldev.com |
-| YouTube | Subscribe |  |
+| YouTube | Channels |  |
 |  | Android Developers | https://www.youtube.com/user/androiddevelopers |
 |  | touchlab | https://www.youtube.com/channel/UC_LIW0OUdsRI21D0xnWkexw |
 |  | Android Dialogs | https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug |
 |  | SquareEngineering | https://www.youtube.com/user/SquareEngineering |
-| YouTube | Search |  |
+| YouTube | Search For |  |
 |  | Droidcon |  |
 |  | Google IO Android |  |
 |  | Android Dev Summit |  |
@@ -103,3 +103,15 @@ All those android development sources that you need to be and stay awesome!
 |  | Envato Tuts Plus | https://code.tutsplus.com/categories/android/courses |
 |  | New Circle | https://newcircle.com/category/android |
 |  | Speaker Deck | https://speakerdeck.com |
+| Twitter | Follow |  |
+|  | Jake Wharton | https://twitter.com/JakeWharton |
+|  | Donn Felker | https://twitter.com/donnfelker |
+|  | Kaushik Gopal | https://twitter.com/kaushikgopal |
+|  | Chet Haase | https://twitter.com/chethaase |
+|  | Tor Norbye | https://twitter.com/tornorbye |
+|  | Google Developers Experts | https://developers.google.com/experts |
+|  | Blogs | (see relevant section) |
+|  | Websites/Subscriptions | (see relevant section) |
+|  | YouTube Channels | (see relevant section) |
+|  | Community/Meetups | (see relevant section) |
+|  | Courses/Presentations | (see relevant section) |
