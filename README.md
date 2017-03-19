@@ -73,6 +73,7 @@ All those android development sources that you need to be and stay awesome!
 | Websites/Subscriptions |  |  |
 |  | Android Dev Digest | https://www.androiddevdigest.com |
 |  | Android Weekly | http://androidweekly.net |
+|  | Kotlin Weekly | http://www.kotlinweekly.net |
 |  | InfoQ | https://www.infoq.com/android |
 |  | JournalDev | http://www.journaldev.com |
 | YouTube | Channels |  |
