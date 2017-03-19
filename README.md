@@ -56,5 +56,17 @@ All those android development sources that you need to be and stay awesome!
 |  | Matt Logan | http://mattlogan.me |
 |  | Jim Baca | http://blog.jimbaca.com |
 | Blogs | Medium |  |
+|  | Android DEV | https://medium.com/tag/androiddev
 |  | Chet Haase | https://medium.com/@chethaase |
 |  | NitinKumar Gove | https://medium.com/@nitinkumargove |
+| Blogs | Companies |  |
+|  | Android Developers | https://android-developers.googleblog.com |
+|  | Philosophical Hacker | https://www.philosophicalhacker.com |
+|  | Realm | https://realm.io/news |
+|  | CommonsWare | https://commonsware.com/blog |
+|  | Yalantis | https://yalantis.com/blog |
+|  | Big Nerd Ranch | https://www.bignerdranch.com/blog/categories/android |
+|  | Software Engineering Hipster | https://artemzin.com/blog |
+|  | The Cheese Factory | https://inthecheesefactory.com/blog |
+| Blogs | GitHub |  |
+|  | Android Development Blogs | https://github.com/ziem/android-development-blogs |
