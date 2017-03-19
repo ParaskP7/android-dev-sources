@@ -97,3 +97,9 @@ All those android development sources that you need to be and stay awesome!
 |  | Berlin Android | http://berlindroid.de |
 |  | GDG Berlin Android | https://www.meetup.com/GDG-Berlin-Android |
 |  | GDG Berlin | https://www.meetup.com/gdgberlin |
+| Course/Presentation |  |  |
+|  | Caster IO | https://caster.io/courses |
+|  | Udacity | https://www.udacity.com/courses/android |
+|  | Envato Tuts Plus | https://code.tutsplus.com/categories/android/courses |
+|  | New Circle | https://newcircle.com/category/android |
+|  | Speaker Deck | https://speakerdeck.com |
