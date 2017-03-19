@@ -124,7 +124,7 @@ All those android development sources that you need to be and stay awesome!
 |  | ADG Berlin | adg-berlin.slack.com |
 | One Library Per Month |  |  |
 |  | RxJava | https://github.com/ReactiveX/RxJava |
-|  | RxAndroid | https://github.com/ReactiveX/RxJava | 
+|  | RxAndroid | https://github.com/ReactiveX/RxAndroid | 
 |  | Dagger | https://github.com/google/dagger |
 |  | ButterKnife | https://github.com/JakeWharton/butterknife |
 |  | Retrofit | https://github.com/square/retrofit |
@@ -136,3 +136,8 @@ All those android development sources that you need to be and stay awesome!
 |  | Parceler | https://github.com/johncarl81/parceler |
 |  | Android Arsenal | http://android-arsenal.com |
 |  | Material Up | https://material.uplabs.com |
+| One Language Per Year |  |  |
+|  | Kotlin | https://kotlinlang.org |
+|  | JavaScript | https://www.javascript.com |
+|  | C# | https://msdn.microsoft.com/en-us/library/a72418yk.aspx |
+|  | Swift | https://swift.org |
