@@ -32,3 +32,26 @@ All those android development sources that you need to be and stay awesome!
 |  | Put It All Together | https://github.com/athkalia/Just-Another-Android-App |
 |  | Put It All Together | https://github.com/AndroidBootstrap/android-bootstrap |
 |  | What's Trending | https://github.com/trending?l=java |
+| Blogs | Developers |  |
+|  | Jake Wharton | http://jakewharton.com |
+|  | Donn Felker | http://www.donnfelker.com |
+|  | Kaushik Gopal | http://blog.kaush.co |
+|  | Mark Allison | https://blog.stylingandroid.com |
+|  | Hannes Dorfmann | http://hannesdorfmann.com |
+|  | Dan Lew Codes | http://blog.danlew.net |
+|  | Chiu-Ki Chan | http://blog.sqisland.com |
+|  | Wolfram Rittmeyer | http://www.grokkingandroid.com |
+|  | Zarah Dominguez | http://www.zdominguez.com |
+|  | Fernando Cejas | https://fernandocejas.com |
+|  | Ryan Harter | http://ryanharter.com |
+|  | Cyril Mottier | https://cyrilmottier.com |
+|  | Elliott Chenger | http://www.omitneedlesscode.com |
+|  | Kelly Shuster | http://www.kiodev.com |
+|  | Michael Evans | http://michaelevans.org |
+|  | Chris Banes | https://chris.banes.me |
+|  | Michał Łuszczuk | http://blog.propaneapps.com |
+|  | Corey Latislaw | http://coreylatislaw.com/category/mobile |
+|  | Wiebe Elsinga | http://wiebe-elsinga.com |
+|  | Dave Smith | http://thesmithfam.org/blog |
+|  | Matt Logan | http://mattlogan.me |
+|  | Jim Baca | http://blog.jimbaca.com |
