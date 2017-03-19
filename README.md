@@ -55,3 +55,6 @@ All those android development sources that you need to be and stay awesome!
 |  | Dave Smith | http://thesmithfam.org/blog |
 |  | Matt Logan | http://mattlogan.me |
 |  | Jim Baca | http://blog.jimbaca.com |
+| Blogs | Medium |  |
+|  | Chet Haase | https://medium.com/@chethaase |
+|  | NitinKumar Gove | https://medium.com/@nitinkumargove |
