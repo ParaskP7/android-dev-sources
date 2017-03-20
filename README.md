@@ -144,18 +144,19 @@ All those android development sources that you need to be and stay awesome!
 |  | Swift | https://swift.org |
 | Books | Robert Martin (Uncle Bob) | http://blog.cleancoder.com |
 |  | Clean Architecture | https://vimeo.com/43612849 |
-|  | Clean Code |  |
+|  | Clean Code | [Amazon](https://www.amazon.de/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) |
+|  | Clean Coder | [Amazon](https://www.amazon.de/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) |
 | Books | Kent Beck |  |
-|  | Test-Driven Development by Example |  | 
-|  | Implementation Patterns |  |
+|  | Test-Driven Development by Example | [Amazon](https://www.amazon.de/Test-Driven-Development-Addison-Wesley-Signature/dp/0321146530) | 
+|  | Implementation Patterns | [Amazon](https://www.amazon.de/Implementation-Patterns-Kent-Beck/dp/0321413091) |
 | Books | Martin Fowler | https://martinfowler.com |
-|  | Refactoring: Improving the Design of Existing Code |  | 
-|  | Patterns of Enterprise Application Architecture |  | 
+|  | Refactoring: Improving the Design of Existing Code | [Amazon](https://www.amazon.de/Refactoring-Improving-Design-Existing-Technology/dp/0201485672) | 
+|  | Patterns of Enterprise Application Architecture | [Amazon](https://www.amazon.de/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) | 
 | Books | Joshua Bloch |  |
-|  | Effective Java |  |
-|  | Java Puzzlers |  |
+|  | Effective Java |  [Amazon](https://www.amazon.de/Effective-Java-2nd-Programming-Language/dp/0321356683) |
+|  | Java Puzzlers |[Amazon](https://www.amazon.de/Java-Puzzlers-Traps-Pitfalls-Corner/dp/032133678X)  |
 | Books | Design Patterns |  |
-|  | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma, John Vlissides, Ralph Johnson and Richard Helm | 
+|  | Design Patterns: Elements of Reusable Object-Oriented Software |Erich Gamma, John Vlissides, Ralph Johnson and Richard Helm | 
 |  | Head First Design Patterns | Elisabeth Freeman |
 | Books | Refactoring |  |
 |  | Working Effectively with Legacy Code | Michael Feathers |
