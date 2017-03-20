@@ -144,7 +144,7 @@ All those android development sources that you need to be and stay awesome!
 |  | C# | https://msdn.microsoft.com/en-us/library/a72418yk.aspx |
 |  | Swift | https://swift.org |
 | Books | Robert Martin (Uncle Bob) | http://blog.cleancoder.com |
-|  | Clean Architecture | https://vimeo.com/43612849 |
+|  | Clean Architecture | [Vimeo](https://vimeo.com/43612849) |
 |  | Clean Code | [Amazon](https://www.amazon.de/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) |
 |  | Clean Coder | [Amazon](https://www.amazon.de/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) |
 | Books | Kent Beck |  |
