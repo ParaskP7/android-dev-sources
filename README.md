@@ -59,6 +59,7 @@ All those android development sources that you need to be and stay awesome!
 |  | Android DEV | https://medium.com/tag/androiddev
 |  | Chet Haase | https://medium.com/@chethaase |
 |  | NitinKumar Gove | https://medium.com/@nitinkumargove |
+|  | Mindorks | https://blog.mindorks.com |
 | Blogs | Companies |  |
 |  | Android Developers | https://android-developers.googleblog.com |
 |  | Philosophical Hacker | https://www.philosophicalhacker.com |
