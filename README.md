@@ -24,6 +24,7 @@ All those android development sources that you need to be and stay awesome!
 |  | MVP & Clean Architecture | https://github.com/rallat/effectiveandroid |
 |  | RxJava | https://github.com/realm/realm-java/tree/master/examples/rxJavaExample |
 |  | RxJava | https://github.com/kaushikgopal/RxJava-Android-Samples |
+|  | RxJava2 | https://github.com/amitshekhariitbhu/RxJava2-Android-Samples |
 |  | Dagger | https://github.com/JakeWharton/u2020 |
 |  | Testing | https://github.com/googlesamples/android-testing |
 |  | Quality | https://github.com/artem-zinnatullin/qualitymatters |
