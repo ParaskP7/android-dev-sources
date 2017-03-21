@@ -22,6 +22,7 @@ All those android development sources that you need to be and stay awesome!
 |  | Clean Architecture | https://github.com/android10/Android-CleanArchitecture |
 |  | MVP | https://github.com/sockeqwe/mosby |
 |  | MVP & Clean Architecture | https://github.com/rallat/effectiveandroid |
+|  | MVP Architecture | https://github.com/MindorksOpenSource/android-mvp-architecture |
 |  | RxJava | https://github.com/realm/realm-java/tree/master/examples/rxJavaExample |
 |  | RxJava | https://github.com/kaushikgopal/RxJava-Android-Samples |
 |  | Dagger | https://github.com/JakeWharton/u2020 |
@@ -136,6 +137,7 @@ All those android development sources that you need to be and stay awesome!
 |  | LeakCanary | https://github.com/square/leakcanary |
 |  | AutoValue | https://github.com/google/auto |
 |  | Parceler | https://github.com/johncarl81/parceler |
+|  | Android Debug Database | https://github.com/amitshekhariitbhu/Android-Debug-Database |
 |  | Android Arsenal | http://android-arsenal.com |
 |  | Material Up | https://material.uplabs.com |
 | One Language Per Year |  |  |
