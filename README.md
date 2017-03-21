@@ -19,6 +19,7 @@ All those android development sources that you need to be and stay awesome!
 | GitHub Projects |  |  |
 |  | Android Guides | https://github.com/codepath/android_guides/wiki |
 |  | Must Have Libraries | https://github.com/codepath/android_guides/wiki/Must-Have-Libraries |
+|  | Architecture | https://github.com/googlesamples/android-architecture |
 |  | Clean Architecture | https://github.com/android10/Android-CleanArchitecture |
 |  | MVP | https://github.com/sockeqwe/mosby |
 |  | MVP & Clean Architecture | https://github.com/rallat/effectiveandroid |
@@ -28,6 +29,7 @@ All those android development sources that you need to be and stay awesome!
 |  | Dagger | https://github.com/JakeWharton/u2020 |
 |  | Testing | https://github.com/googlesamples/android-testing |
 |  | Quality | https://github.com/artem-zinnatullin/qualitymatters |
+|  | UI/UX | https://github.com/wasabeef/awesome-android-ui |
 |  | Material Design | https://github.com/nickbutcher/plaid |
 |  | Material Design | https://github.com/googlesamples/android-topeka |
 |  | Put It All Together | https://github.com/athkalia/Just-Another-Android-App |
