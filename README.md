@@ -162,6 +162,8 @@ All those android development sources that you need to be and stay awesome!
 | Books | Refactoring |  |
 |  | Working Effectively with Legacy Code | Michael Feathers |
 |  | The Mikado Method | Ola Ellnestam and Daniel Brolund |
+| Books | Android |  |
+|  | The Busy Coder's Guide to Android Development | [CommonsWare](https://commonsware.com/Android/) |
 | Productivity | Android Studio |  |
 |  | Key Promoter | Android Studio Plugin |
 |  | ADB IDEA | Android Studio Plugin |
