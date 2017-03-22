@@ -124,7 +124,7 @@ All those android development sources that you need to be and stay awesome!
 |  | Spec Network - Orthogonal | specnetwork.slack.com |
 | Slack | Local Community |  |
 |  | ADG Berlin | adg-berlin.slack.com |
-|  | Android Dev Br | slack.androiddevbr.org |
+|  | Android Dev Br | androiddevbr.slack.com |
 | One Library Per Month |  |  |
 |  | RxJava | https://github.com/ReactiveX/RxJava |
 |  | RxAndroid | https://github.com/ReactiveX/RxAndroid | 
