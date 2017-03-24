@@ -176,6 +176,7 @@ All those android development sources that you need to be and stay awesome!
 |  | Hadi Hariri - Mouseless Driven Development | https://vimeo.com/98922030 |
 |  | Pomodoro Technique | https://cirillocompany.de/pages/pomodoro-technique |
 | Productivity | Tips |  |
+|  | Android Tips and Tricks | https://github.com/nisrulz/android-tips-tricks |
 |  | AndroidDev tips and tricks from 2016 | http://fragmentedpodcast.com/episodes/048 |
 |  | Tips and tricks we picked from 2015 | http://fragmentedpodcast.com/episodes/28 |
 |  | Talking TextView with Elliott Chenger - Performance| http://fragmentedpodcast.com/episodes/39 |
