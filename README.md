@@ -1,5 +1,7 @@
 # android-dev-sources
-All those android development sources that you need to be and stay awesome!
+All those Android development sources that you need to be and stay awesome!
+
+**FOCUS ON KOTLIN**
 
 | Category | Title | URL |
 | ------------- | ------------- | ------------- |
