@@ -62,6 +62,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | Hannes Dorfmann | http://hannesdorfmann.com |
 |  | Dan Lew Codes | http://blog.danlew.net |
 |  | Chiu-Ki Chan | http://blog.sqisland.com |
+|  | Florina Muntenescu | https://medium.com/@florina.muntenescu |
 |  | Chris Banes | https://chris.banes.me |
 |  | Cyril Mottier | https://cyrilmottier.com |
 |  | NitinKumar Gove | https://medium.com/@nitinkumargove |
