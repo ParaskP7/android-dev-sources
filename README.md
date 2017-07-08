@@ -7,7 +7,7 @@ All those Android development sources that you need to be and stay awesome!
 | ------------- | ------------- | ------------- |
 | RSS and News Aggregators |  |  |
 |  | Inoreader | https://www.inoreader.com |
-|  | Reddit - Kotlin | https://www.reddit.com/r/Kotlin/ |
+|  | Reddit - Kotlin | https://www.reddit.com/r/Kotlin |
 |  | Reddit - Android | https://www.reddit.com/r/androiddev |
 | Podcasts |  |  |
 |  | Fragmented | http://fragmentedpodcast.com |
@@ -50,8 +50,9 @@ All those Android development sources that you need to be and stay awesome!
 |  | Put It All Together | https://github.com/athkalia/Just-Another-Android-App |
 |  | Android Development Blogs | https://github.com/ziem/android-development-blogs |
 | Blogs | Kotlin |  |
-|  | JetBrains | https://blog.jetbrains.com/kotlin/ |
-|  | Antonio Leiva | https://antonioleiva.com/category/blog/ |
+|  | JetBrains | https://blog.jetbrains.com/kotlin |
+|  | Hadi Hariri | http://hadihariri.com |
+|  | Antonio Leiva | https://antonioleiva.com/category/blog |
 |  | Jim Baca | http://blog.jimbaca.com |
 | Blogs | Developers |  |
 |  | Jake Wharton | http://jakewharton.com |
@@ -73,7 +74,7 @@ All those Android development sources that you need to be and stay awesome!
 | Blogs | Companies |  |
 |  | Android Developers | https://android-developers.googleblog.com |
 |  | Realm | https://realm.io/news |
-|  | Genymotion | https://www.genymotion.com/blog/ |
+|  | Genymotion | https://www.genymotion.com/blog |
 |  | CommonsWare | https://commonsware.com/blog |
 |  | Yalantis | https://yalantis.com/blog |
 |  | Philosophical Hacker | https://www.philosophicalhacker.com |
@@ -83,7 +84,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | TechBeacon | https://techbeacon.com/mobile |
 | Blogs | Medium |  |
 |  | Android DEV | https://medium.com/tag/androiddev
-|  | Android Pub | https://android.jlelse.eu/
+|  | Android Pub | https://android.jlelse.eu
 |  | Mindorks | https://blog.mindorks.com |
 | Websites/Subscriptions |  |  |
 |  | Kotlin Weekly | http://www.kotlinweekly.net |
@@ -106,7 +107,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | Droidcon |  |
 |  | Android Dev Summit |  |
 | Community/Meetups |  |  |
-|  | All Android Meetups | https://www.meetup.com/topics/android/all/ |
+|  | All Android Meetups | https://www.meetup.com/topics/android/all |
 |  | All Android Development Meetups | https://www.meetup.com/topics/android-developers/all |
 | Community/Meetups | San Francisco & Silicon Valley |  |
 |  | Bay Area Kotlin User Group | https://www.meetup.com/Bay-Area-Kotlin-User-Group |
@@ -115,7 +116,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | GDG San Francisco | https://www.meetup.com/google-developer-group-san-francisco |
 | Community/Meetups | London |  |
 |  | GDG London | http://www.gdg-london.com |
-|  | Kotlin London | https://www.meetup.com/kotlin-london/ |
+|  | Kotlin London | https://www.meetup.com/kotlin-london |
 |  | The London Android Group | https://www.meetup.com/android |
 | Community/Meetups | Berlin |  |
 |  | Berlin Android | http://berlindroid.de |
@@ -123,7 +124,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | GDG Berlin Android | https://www.meetup.com/GDG-Berlin-Android |
 |  | GDG Berlin | https://www.meetup.com/gdgberlin |
 | Community/Meetups | Athens |  |
-|  | GDG Android Athens | https://www.meetup.com/GDG-Android-Athens/ |
+|  | GDG Android Athens | https://www.meetup.com/GDG-Android-Athens |
 | Courses/Presentations |  |  |
 |  | Caster IO | https://caster.io/courses |
 |  | Udacity | https://www.udacity.com/courses/android |
@@ -145,7 +146,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | Kotlin Language | kotlinlang.slack.com |
 |  | Android United | android-united.slack.com |
 |  | Android Chat | androidchat.slack.com |
-|  | Firebase Community | firebase-community |
+|  | Firebase Community | firebase-community.slack.com |
 |  | Spec Network | specnetwork.slack.com |
 | Slack | Local Community |  |
 |  | ADG Berlin | adg-berlin.slack.com |
@@ -212,7 +213,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | Soft Skills: The software developer's life manual | [Amazon](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/ref=sr_1_1?s=books&ie=UTF8&qid=1499457831&sr=1-1&keywords=soft+skills+the+software+developer%27s+life+manual) |
 | Books | [Kotlin](https://kotlinlang.org/docs/books.html) |  |
 |  | Kotlin in Action | [Amazon](https://www.amazon.de/Kotlin-Action-Dmitry-Jemerov/dp/1617293296) |
-|  | Kotlin for Android Developers | [Antonio Leiva](https://antonioleiva.com/kotlin-android-developers-book/) |
+|  | Kotlin for Android Developers | [Antonio Leiva](https://antonioleiva.com/kotlin-android-developers-book) |
 | Books | Android |  |
 |  | The Busy Coder's Guide to Android Development | [CommonsWare](https://commonsware.com/Android/) |
 | Books | RxJava |  |
@@ -225,8 +226,8 @@ All those Android development sources that you need to be and stay awesome!
 |  | ADB IDEA | Android Studio Plugin |
 |  | Ace Jump | Android Studio Plugin |
 |  | Android Studio for Experts | https://medium.com/@shemag8/android-studio-for-experts-cheat-sheet-efe892703d97#.fqwwmsifm |
-|  | GDE Philippe Breault discusses Tinkering with Android Studio (Part I) | http://fragmentedpodcast.com/episodes/055/ |
-|  | GDE Philippe Breault on tinkering with Android Studio (Part II) | http://fragmentedpodcast.com/episodes/056/ |
+|  | GDE Philippe Breault discusses Tinkering with Android Studio (Part I) | http://fragmentedpodcast.com/episodes/055 |
+|  | GDE Philippe Breault on tinkering with Android Studio (Part II) | http://fragmentedpodcast.com/episodes/056 |
 | Productivity | Techniques |  |
 |  | Hadi Hariri - Mouseless Driven Development | https://vimeo.com/98922030 |
 |  | Pomodoro Technique | https://cirillocompany.de/pages/pomodoro-technique |
