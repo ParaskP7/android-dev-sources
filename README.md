@@ -207,7 +207,7 @@ All those android development sources that you need to be and stay awesome!
 |  | Coders at Work: Reflections on the Craft of Programming | [Amazon](https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483/ref=sr_1_1?s=books&ie=UTF8&qid=1499457443&sr=1-1&keywords=coders+at+work) |
 |  | The Pragmatic Programmer: From Journeyman to Master | [Amazon](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?s=books&ie=UTF8&qid=1499457763&sr=1-1&keywords=pragmatic+programmer) |
 |  | Soft Skills: The software developer's life manual | [Amazon](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/ref=sr_1_1?s=books&ie=UTF8&qid=1499457831&sr=1-1&keywords=soft+skills+the+software+developer%27s+life+manual) |
-| Books | Kotlin | https://kotlinlang.org/docs/books.html |
+| Books | [Kotlin](https://kotlinlang.org/docs/books.html) |  |
 |  | Kotlin in Action | [Amazon](https://www.amazon.de/Kotlin-Action-Dmitry-Jemerov/dp/1617293296) |
 |  | Kotlin for Android Developers | [Antonio Leiva](https://antonioleiva.com/kotlin-android-developers-book/) |
 | Books | Android |  |
