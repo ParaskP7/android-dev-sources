@@ -54,6 +54,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | Hadi Hariri | http://hadihariri.com |
 |  | Antonio Leiva | https://antonioleiva.com/category/blog |
 |  | Jim Baca | http://blog.jimbaca.com |
+|  | Simon Wirtz | https://blog.simon-wirtz.de |
 | Blogs | Developers |  |
 |  | Jake Wharton | http://jakewharton.com |
 |  | Donn Felker | http://www.donnfelker.com |
