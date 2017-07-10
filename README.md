@@ -83,6 +83,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | The Cheese Factory | https://inthecheesefactory.com/blog |
 |  | TechBeacon | https://techbeacon.com/mobile |
 | Blogs | Medium |  |
+|  | Pro Android Dev | https://proandroiddev.com
 |  | Android DEV | https://medium.com/tag/androiddev
 |  | Android Pub | https://android.jlelse.eu
 |  | Mindorks | https://blog.mindorks.com |
