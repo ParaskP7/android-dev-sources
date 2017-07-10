@@ -181,6 +181,10 @@ All those Android development sources that you need to be and stay awesome!
 | One Library Per Month | Other |  |
 |  | Android Arsenal | http://android-arsenal.com |
 |  | Material Up | https://material.uplabs.com |
+| One Platform Per Quarter |  |  |
+|  | Firebase | https://firebase.google.com |
+|  | Fabric | https://get.fabric.io |
+|  | Realm | https://realm.io/products/realm-mobile-platform |
 | One Language Per Year |  |  |
 |  | Kotlin | https://kotlinlang.org |
 |  | JavaScript | https://www.javascript.com |
