@@ -237,6 +237,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | ADB IDEA | Android Studio Plugin |
 |  | Ace Jump | Android Studio Plugin |
 |  | Android Studio for Experts | https://medium.com/@shemag8/android-studio-for-experts-cheat-sheet-efe892703d97#.fqwwmsifm |
+|  | Android Studio Like a Pro | https://stanfy.com/blog/use-android-studio-like-a-pro |
 |  | GDE Philippe Breault discusses Tinkering with Android Studio (Part I) | http://fragmentedpodcast.com/episodes/055 |
 |  | GDE Philippe Breault on tinkering with Android Studio (Part II) | http://fragmentedpodcast.com/episodes/056 |
 | Productivity | Techniques |  |
