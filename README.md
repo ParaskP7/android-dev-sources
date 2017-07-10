@@ -249,7 +249,8 @@ All those Android development sources that you need to be and stay awesome!
 |  | {dev} tips | https://tips.seebrock3r.me |
 |  | AndroidDev tips and tricks from 2016 | http://fragmentedpodcast.com/episodes/048 |
 |  | Tips and tricks we picked from 2015 | http://fragmentedpodcast.com/episodes/28 |
-|  | Talking TextView with Elliott Chenger - Performance| http://fragmentedpodcast.com/episodes/39 |
+|  | Talking TextView with Elliott Chenger - Performance | http://fragmentedpodcast.com/episodes/39 |
+|  | How to become a better Android developer: 30+ bite-sized pro tips | https://techbeacon.com/how-become-better-android-developer-30-bite-sized-pro-tips |
 
 ### Contributing guidelines
 
