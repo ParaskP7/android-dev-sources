@@ -125,11 +125,12 @@ All those Android development sources that you need to be and stay awesome!
 |  | GDG Berlin | https://www.meetup.com/gdgberlin |
 | Community/Meetups | Athens |  |
 |  | GDG Android Athens | https://www.meetup.com/GDG-Android-Athens |
-| Courses/Presentations |  |  |
+| Courses/Presentations/Tutorials |  |  |
 |  | Caster IO | https://caster.io/courses |
 |  | Udacity | https://www.udacity.com/courses/android |
 |  | Envato Tuts Plus | https://code.tutsplus.com/categories/android/courses |
 |  | Speaker Deck | https://speakerdeck.com |
+|  | Ray Wenderlich | https://www.raywenderlich.com/category/android |
 | Twitter | Follow |  |
 |  | Google Developers Experts | https://developers.google.com/experts |
 |  | Jake Wharton | https://twitter.com/JakeWharton |
