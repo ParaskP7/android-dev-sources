@@ -209,7 +209,7 @@ All those Android development sources that you need to be and stay awesome!
 | Books | Joshua Bloch |  |
 |  | Effective Java |  [Amazon](https://www.amazon.de/Effective-Java-2nd-Programming-Language/dp/0321356683) |
 |  | Java Puzzlers |[Amazon](https://www.amazon.de/Java-Puzzlers-Traps-Pitfalls-Corner/dp/032133678X)  |
-| Books | Design Patterns |  |
+| Books | [Design Patterns](https://github.com/iluwatar/java-design-patterns) |  |
 |  | Design Patterns: Elements of Reusable Object-Oriented Software | [Amazon](https://www.amazon.de/Patterns-Elements-Reusable-Object-Oriented-Software/dp/0201633612/ref=sr_1_1?ie=UTF8&qid=1499522156&sr=8-1&keywords=Design+Patterns%3A+Elements+of+Reusable+Object-Oriented+Software) | 
 |  | Head First Design Patterns | [Amazon](https://www.amazon.de/Head-First-Design-Patterns-Freeman/dp/0596007124/ref=sr_1_1?ie=UTF8&qid=1499522235&sr=8-1&keywords=Head+First+Design+Patterns) |
 | Books | Refactoring |  |
