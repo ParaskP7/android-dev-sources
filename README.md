@@ -38,6 +38,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | Android Guides | https://github.com/aritraroy/UltimateAndroidReference |
 |  | Android Guides | https://github.com/codepath/android_guides/wiki |
 |  | Android Guides | https://github.com/ribot/android-guidelines |
+|  | Best Practices | https://github.com/futurice/android-best-practices |
 |  | Architecture | https://github.com/googlesamples/android-architecture |
 |  | Architecture Components | https://github.com/googlesamples/android-architecture-components |
 |  | Clean Architecture | https://github.com/android10/Android-CleanArchitecture |
