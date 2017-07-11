@@ -167,6 +167,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | KotterKnife | https://github.com/JakeWharton/kotterknife |
 |  | SQLDelight | https://github.com/square/sqldelight |
 |  | Detekt | https://github.com/arturbosch/detekt |
+|  | Spek | https://github.com/JetBrains/spek |
 | One Library Per Month | Android |  |
 |  | Android Architecture Components | https://developer.android.com/topic/libraries/architecture/index.html |
 |  | DataBinding | https://developer.android.com/topic/libraries/data-binding/index.html |
