@@ -27,6 +27,8 @@ All those Android development sources that you need to be and stay awesome!
 |  | Kotlin Koans | https://github.com/Kotlin/kotlin-koans |
 |  | Design Patterns In Kotlin | https://github.com/dbacinski/Design-Patterns-In-Kotlin |
 |  | Bandhook Kotlin | https://github.com/antoniolg/Bandhook-Kotlin |
+|  | KEEP | https://github.com/Kotlin/KEEP |
+|  | Kotlin Coroutines | https://github.com/Kotlin/kotlin-coroutines |
 | GitHub Projects | Android |  |
 |  | What's Trending in Java & Android | https://github.com/trending/java |
 |  | Awesome Lists | https://github.com/sindresorhus/awesome |
@@ -161,6 +163,7 @@ All those Android development sources that you need to be and stay awesome!
 | One Library Per Month | Kotlin |  |
 |  | Anko | https://github.com/Kotlin/anko |
 |  | RxKotlin | https://github.com/ReactiveX/RxKotlin |
+|  | Kotlin Coroutines| https://github.com/Kotlin/kotlinx.coroutines |
 |  | KotterKnife | https://github.com/JakeWharton/kotterknife |
 |  | SQLDelight | https://github.com/square/sqldelight |
 |  | Detekt | https://github.com/arturbosch/detekt |
