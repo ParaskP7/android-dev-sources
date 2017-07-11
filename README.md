@@ -168,6 +168,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | SQLDelight | https://github.com/square/sqldelight |
 |  | Detekt | https://github.com/arturbosch/detekt |
 | One Library Per Month | Android |  |
+|  | Android Architecture Components | https://developer.android.com/topic/libraries/architecture/index.html |
 |  | DataBinding | https://developer.android.com/topic/libraries/data-binding/index.html |
 |  | RxJava | https://github.com/ReactiveX/RxJava |
 |  | Dagger | https://github.com/google/dagger |
