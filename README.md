@@ -247,6 +247,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | Android Studio Like a Pro | https://stanfy.com/blog/use-android-studio-like-a-pro |
 |  | GDE Philippe Breault discusses Tinkering with Android Studio (Part I) | http://fragmentedpodcast.com/episodes/055 |
 |  | GDE Philippe Breault on tinkering with Android Studio (Part II) | http://fragmentedpodcast.com/episodes/056 |
+|  | Android Studio Tips by Philippe Breault | https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault |
 | Productivity | Techniques |  |
 |  | Hadi Hariri - Mouseless Driven Development | https://vimeo.com/98922030 |
 |  | Pomodoro Technique | https://cirillocompany.de/pages/pomodoro-technique |
