@@ -113,6 +113,8 @@ All those Android development sources that you need to be and stay awesome!
 |  | [Firebase IO Android](https://www.youtube.com/playlist?list=PLl-K7zZEsYLma7gxYxtEwO1rsAPn7wkV_) |  |
 |  | Droidcon |  |
 |  | Android Dev Summit |  |
+| Community/Conferences |  |  |
+|  | GitHub | https://github.com/AndroidStudyGroup/conferences |
 | Community/Meetups |  |  |
 |  | All Android Meetups | https://www.meetup.com/topics/android/all |
 |  | All Android Development Meetups | https://www.meetup.com/topics/android-developers/all |
