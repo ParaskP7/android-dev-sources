@@ -18,9 +18,10 @@ All those Android development sources that you need to be and stay awesome!
 |  | Reddit: The Official App | https://play.google.com/store/apps/details?id=com.reddit.frontpage |
 |  | Player FM - Podcast Offline | https://play.google.com/store/apps/details?id=fm.player |
 |  | Playbook for Developers | https://play.google.com/store/apps/details?id=com.google.android.apps.secrets |
-| Previews |  |  |
+| Previews/EAP |  |  |
 |  | Android O | https://developer.android.com/preview/index.html |
 |  | Android Studio 3.0 | https://developer.android.com/studio/preview/index.html |
+|  | Kotlin 1.1.4 EAP | https://discuss.kotlinlang.org/t/kotlin-1-1-4-eap/3721 |
 | GitHub Projects | Kotlin |  |
 |  | What's Trending in Kotlin | https://github.com/trending/kotlin |
 |  | Awesome Kotlin | https://github.com/KotlinBy/awesome-kotlin |
