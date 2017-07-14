@@ -81,6 +81,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | Fernando Cejas | https://fernandocejas.com |
 | Blogs | Companies |  |
 |  | Android Developers | https://android-developers.googleblog.com |
+|  | Square | https://medium.com/square-corner-blog |
 |  | Realm | https://realm.io/news |
 |  | Genymotion | https://www.genymotion.com/blog |
 |  | CommonsWare | https://commonsware.com/blog |
@@ -90,11 +91,11 @@ All those Android development sources that you need to be and stay awesome!
 |  | Software Engineering Hipster | https://artemzin.com/blog |
 |  | The Cheese Factory | https://inthecheesefactory.com/blog |
 |  | TechBeacon | https://techbeacon.com/mobile |
+|  | Mindorks | https://blog.mindorks.com |
 | Blogs | Medium |  |
 |  | Pro Android Dev | https://proandroiddev.com
 |  | Android DEV | https://medium.com/tag/androiddev
 |  | Android Pub | https://android.jlelse.eu
-|  | Mindorks | https://blog.mindorks.com |
 | Websites/Subscriptions |  |  |
 |  | Kotlin Weekly | http://www.kotlinweekly.net |
 |  | Android Dev Digest | https://www.androiddevdigest.com |
