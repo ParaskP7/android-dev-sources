@@ -323,6 +323,9 @@ If you would like to add a new entry to the list, create a new issue using templ
 
 As an issue title use `Add http://example.com`.
 
+### Found this project useful?
+If you found this project useful, then please consider giving it a :star: on GitHub and sharing it with your friends via social media.
+
 # PS
 I would really love some feedback on this list I've created and more so would love your contribution to this list as I am sure I might be forgetting other important and equally powerful Android dev sources that our community can benefit from...
 
