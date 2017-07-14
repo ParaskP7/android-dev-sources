@@ -1,8 +1,18 @@
-# android-dev-sources
-All those Android development sources that you need to be and stay awesome!
+# WELCOME
+Below you will find all those Android development sources that you need to be and stay awesome!
 
-**FOCUS ON KOTLIN**
+**THE FOCUS IS ON KOTLIN** :heart:
 
+Since Google announced support for Kotlin you will be finding more and more sources that focus around Kotlin.  
+
+## OPML
+Don't forget to check out the OPML subscriptions file included in this project (*subscriptions.xml*). This will make it very easy for you to import all this amazing feeds into your favorite RSS reader. 
+
+**JUST DO IT!** :+1:
+
+Keep up to date with the latest and greatest in Android.
+
+# Android DEV Sources
 | Category | Title | URL |
 | ------------- | ------------- | ------------- |
 | Apps |  |  |

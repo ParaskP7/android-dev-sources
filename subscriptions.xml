@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of petros.g.paraskevopoulos from Inoreader [http://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="Reddit" title="Reddit">
+      <outline text="Kotlin" title="Kotlin" type="rss" xmlUrl="https://www.reddit.com/r/Kotlin/.rss" htmlUrl="https://www.reddit.com/r/Kotlin/"/>
+      <outline text="AndroidDev" title="AndroidDev" type="rss" xmlUrl="https://www.reddit.com/r/androiddev/.rss" htmlUrl="https://www.reddit.com/r/androiddev/"/>
+    </outline>
+    <outline text="Android Podcasts" title="Android Podcasts">
+      <outline text="Native Wheelhouse" title="Native Wheelhouse" type="rss" xmlUrl="https://rss.simplecast.com/podcasts/2348/rss" htmlUrl="https://nativewheel.house/"/>
+      <outline text="Talking Kotlin" title="Talking Kotlin" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:280353173/sounds.rss" htmlUrl="http://talkingkotlin.com/"/>
+      <outline text="The Context #androiddev" title="The Context #androiddev" type="rss" xmlUrl="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss" htmlUrl="https://github.com/artem-zinnatullin/TheContext-Podcast"/>
+      <outline text="Android Developers Backstage" title="Android Developers Backstage" type="rss" xmlUrl="http://androidbackstage.blogspot.com/feeds/posts/default" htmlUrl="http://androidbackstage.blogspot.com/"/>
+      <outline text="Fragmented" title="Fragmented" type="rss" xmlUrl="http://fragmentedpodcast.com/feed/" htmlUrl="http://fragmentedpodcast.com/"/>
+    </outline>
+    <outline text="Android Summary" title="Android Summary">
+      <outline text="InfoQ - Android" title="InfoQ - Android" type="rss" xmlUrl="https://www.infoq.com/feed/android" htmlUrl="http://www.infoq.com/"/>
+      <outline text="#AndroidDev Digest" title="#AndroidDev Digest" type="rss" xmlUrl="https://www.androiddevdigest.com/feed/" htmlUrl="https://www.androiddevdigest.com/"/>
+      <outline text="Kotlin Weekly" title="Kotlin Weekly" type="rss" xmlUrl="http://us12.campaign-archive2.com/feed?u=f39692e245b94f7fb693b6d82&amp;id=93b2272cb6" htmlUrl="http://us12.campaign-archive.com/feed?u=f39692e245b94f7fb693b6d82&amp;id=93b2272cb6"/>
+      <outline text="Android Weekly" title="Android Weekly" type="rss" xmlUrl="http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19" htmlUrl="http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19"/>
+    </outline>
+    <outline text="Android Tutorials" title="Android Tutorials">
+      <outline text="CASTER.IO" title="CASTER.IO" type="rss" xmlUrl="https://caster.io/feed/" htmlUrl="https://caster.io"/>
+      <outline text="Ray Wenderlich" title="Ray Wenderlich" type="rss" xmlUrl="http://feeds.feedburner.com/RayWenderlich" htmlUrl="http://www.raywenderlich.com/"/>
+      <outline text="Android Hive" title="Android Hive" type="rss" xmlUrl="http://www.androidhive.info/feed/" htmlUrl="http://www.androidhive.info/"/>
+    </outline>
+    <outline text="Android Design" title="Android Design">
+      <outline text="Android UI Patterns" title="Android UI Patterns" type="rss" xmlUrl="http://www.androiduipatterns.com/feeds/posts/default" htmlUrl="http://www.androiduipatterns.com/"/>
+      <outline text="MaterialUp" title="MaterialUp" type="rss" xmlUrl="http://www.materialup.com/rss" htmlUrl="http://www.materialup.com/designs"/>
+      <outline text="Android Niceties" title="Android Niceties" type="rss" xmlUrl="http://androidniceties.tumblr.com/rss" htmlUrl="http://androidniceties.tumblr.com/"/>
+    </outline>
+    <outline text="Android Marketing" title="Android Marketing">
+      <outline text="WEEBY NETWORK" title="WEEBY NETWORK" type="rss" xmlUrl="https://weebynetwork.com/feed/" htmlUrl="https://weebynetwork.com/"/>
+    </outline>
+    <outline text="Android Libraries" title="Android Libraries">
+      <outline text="Android Arsenal" title="Android Arsenal" type="rss" xmlUrl="http://feeds.feedburner.com/Android_Arsenal" htmlUrl="https://android-arsenal.com/rss"/>
+    </outline>
+    <outline text="Blogs - Grandmasters" title="Blogs - Grandmasters">
+      <outline text="The Clean Code" title="The Clean Code" type="rss" xmlUrl="http://blog.cleancoder.com/atom.xml" htmlUrl="http://blog.cleancoder.com/"/>
+      <outline text="Martin Fowler" title="Martin Fowler" type="rss" xmlUrl="http://martinfowler.com/feed.atom" htmlUrl="http://martinfowler.com/"/>
+    </outline>
+    <outline text="Blogs - Kotlin" title="Blogs - Kotlin">
+      <outline text="Hadi Hariri" title="Hadi Hariri" type="rss" xmlUrl="http://hadihariri.com/feed.xml" htmlUrl="http://hadihariri.com/feed.xml"/>
+      <outline text="Antonio Leiva" title="Antonio Leiva" type="rss" xmlUrl="http://antonioleiva.com/feed/" htmlUrl="http://antonioleiva.com/"/>
+      <outline text="Kotlin Blog" title="Kotlin Blog" type="rss" xmlUrl="https://blog.jetbrains.com/kotlin/feed/" htmlUrl="http://blog.jetbrains.com/kotlin"/>
+      <outline text="Jim Baca" title="Jim Baca" type="rss" xmlUrl="http://blog.jimbaca.com/feed/" htmlUrl="http://blog.jimbaca.com/"/>
+    </outline>
+    <outline text="Blogs - Reactive" title="Blogs - Reactive">
+      <outline text="Advanced RxJava" title="Advanced RxJava" type="rss" xmlUrl="http://akarnokd.blogspot.com/feeds/posts/default" htmlUrl="http://akarnokd.blogspot.com/"/>
+    </outline>
+    <outline text="Blogs - Developer" title="Blogs - Developer">
+      <outline text="Fernando Cejas" title="Fernando Cejas" type="rss" xmlUrl="http://fernandocejas.com/feed/" htmlUrl="http://fernandocejas.com"/>
+      <outline text="Annyce Davis" title="Annyce Davis" type="rss" xmlUrl="http://adavis.info/feed" htmlUrl="http://adavis.info/"/>
+      <outline text="Dan Lew Codes" title="Dan Lew Codes" type="rss" xmlUrl="http://blog.danlew.net/rss/" htmlUrl="http://blog.danlew.net/"/>
+      <outline text="Elif Boncuk" title="Elif Boncuk" type="rss" xmlUrl="https://elifboncuk.com/feed/" htmlUrl="https://elifboncuk.com"/>
+      <outline text="Riggaroo" title="Riggaroo" type="rss" xmlUrl="http://riggaroo.co.za/feed/" htmlUrl="http://riggaroo.co.za"/>
+      <outline text="Cyril Mottier" title="Cyril Mottier" type="rss" xmlUrl="http://android.cyrilmottier.com/?feed=rss2" htmlUrl="http://cyrilmottier.com/"/>
+      <outline text="Hannes Dorfmann" title="Hannes Dorfmann" type="rss" xmlUrl="http://hannesdorfmann.com/feed.xml" htmlUrl="http://www.hannesdorfmann.com/"/>
+      <outline text="Mark Allison" title="Mark Allison" type="rss" xmlUrl="http://blog.stylingandroid.com/feed" htmlUrl="http://blog.stylingandroid.com/"/>
+      <outline text="Huyen Dao" title="Huyen Dao" type="rss" xmlUrl="http://www.randomlytyping.com/home?format=RSS" htmlUrl="http://www.randomlytyping.com/"/>
+      <outline text="Scott Alexander-Bown" title="Scott Alexander-Bown" type="rss" xmlUrl="https://scottyab.com/feed/" htmlUrl="https://scottyab.com/"/>
+      <outline text="Wasabeef" title="Wasabeef" type="rss" xmlUrl="https://wasabeef.jp/rss/" htmlUrl="https://wasabeef.jp/"/>
+      <outline text="Ryan Harter" title="Ryan Harter" type="rss" xmlUrl="http://ryanharter.com/atom.xml" htmlUrl="http://ryanharter.com/"/>
+      <outline text="Donn Felker" title="Donn Felker" type="rss" xmlUrl="http://feeds.feedburner.com/donnfelker" htmlUrl="http://www.donnfelker.com/"/>
+      <outline text="KioDev" title="KioDev" type="rss" xmlUrl="http://www.kiodev.com/feed/" htmlUrl="http://www.kiodev.com/"/>
+      <outline text="Jake Wharton" title="Jake Wharton" type="rss" xmlUrl="http://jakewharton.com/feed.xml" htmlUrl="http://jakewharton.com/"/>
+      <outline text="Chiu-Ki Chan" title="Chiu-Ki Chan" type="rss" xmlUrl="http://blog.sqisland.com/feeds/posts/default" htmlUrl="http://blog.sqisland.com/"/>
+      <outline text="Michael Evans" title="Michael Evans" type="rss" xmlUrl="http://michaelevans.org/atom.xml" htmlUrl="http://michaelevans.org/"/>
+      <outline text="Chris Banes" title="Chris Banes" type="rss" xmlUrl="https://chris.banes.me/atom.xml" htmlUrl="http://chris.banes.me/"/>
+      <outline text="Kaushik Gopal" title="Kaushik Gopal" type="rss" xmlUrl="http://blog.kaush.co/feed.xml" htmlUrl="http://blog.kaush.co/"/>
+      <outline text="Michał Łuszczuk" title="Michał Łuszczuk" type="rss" xmlUrl="http://blog.propaneapps.com/feed/" htmlUrl="http://blog.propaneapps.com/"/>
+    </outline>
+    <outline text="Blogs - Medium" title="Blogs - Medium">
+      <outline text="Nitinkumar Gove" title="Nitinkumar Gove" type="rss" xmlUrl="https://medium.com/feed/@nitinkumargove" htmlUrl="https://medium.com/@nitinkumargove?source=rss-6c2f074bf373------2"/>
+      <outline text="Pro Android Dev" title="Pro Android Dev" type="rss" xmlUrl="https://proandroiddev.com/feed" htmlUrl="https://proandroiddev.com/?source=rss----c72404660798---4"/>
+      <outline text="Square Corner" title="Square Corner" type="rss" xmlUrl="https://medium.com/feed/square-corner-blog" htmlUrl="https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4"/>
+      <outline text="César Ferreira" title="César Ferreira" type="rss" xmlUrl="https://medium.com/feed/@cesarmcferreira" htmlUrl="https://medium.com/@cesarmcferreira?source=rss-e2014d14afbc------2"/>
+      <outline text="Chet Haase" title="Chet Haase" type="rss" xmlUrl="https://medium.com/feed/@chethaase" htmlUrl="https://medium.com/@chethaase?source=rss-cb2c4874d3e9------2"/>
+      <outline text="Android Dev" title="Android Dev" type="rss" xmlUrl="https://medium.com/feed/tag/androiddev" htmlUrl="https://medium.com/tag/androiddev/latest?source=rss------androiddev-5"/>
+      <outline text="Florina Muntenescu" title="Florina Muntenescu" type="rss" xmlUrl="https://medium.com/feed/@florina.muntenescu" htmlUrl="https://medium.com/@florina.muntenescu?source=rss-d5885adb1ddf------2"/>
+      <outline text="Sebastiano Poggi" title="Sebastiano Poggi" type="rss" xmlUrl="https://medium.com/feed/@seebrock3r" htmlUrl="https://medium.com/@seebrock3r?source=rss-9706138c9bfb------2"/>
+      <outline text="Patryk Poborca" title="Patryk Poborca" type="rss" xmlUrl="https://medium.com/feed/@patrykpoborca" htmlUrl="https://medium.com/@patrykpoborca?source=rss-ef5bf72f8620------2"/>
+      <outline text="Sebastiano Gottardo" title="Sebastiano Gottardo" type="rss" xmlUrl="https://medium.com/feed/@rotxed" htmlUrl="https://medium.com/@rotxed"/>
+      <outline text="Android Pub" title="Android Pub" type="rss" xmlUrl="https://android.jlelse.eu/feed" htmlUrl="https://android.jlelse.eu/?source=rss----8fca399d4de---4"/>
+    </outline>
+    <outline text="Blogs - Google" title="Blogs - Google">
+      <outline text="Google Developers Blog" title="Google Developers Blog" type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/Dcni" htmlUrl="http://googledevelopers.blogspot.com/"/>
+      <outline text="Android Developers Blog" title="Android Developers Blog" type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/hsDu" htmlUrl="http://android-developers.blogspot.com/"/>
+    </outline>
+    <outline text="Blogs - Company" title="Blogs - Company">
+      <outline text="The Cheese Factory's Blog (English)" title="The Cheese Factory's Blog (English)" type="rss" xmlUrl="http://inthecheesefactory.com/blog/en/rss.xml" htmlUrl="http://inthecheesefactory.com/blog/en"/>
+      <outline text="JetBrains Blog" title="JetBrains Blog" type="rss" xmlUrl="http://blogs.jetbrains.com/idea/feed/" htmlUrl="http://blog.jetbrains.com/idea"/>
+      <outline text="The CommonsBlog" title="The CommonsBlog" type="rss" xmlUrl="https://commonsware.com/blog/feed.atom" htmlUrl="https://commonsware.com/blog/feed.atom"/>
+      <outline text="TechBeacon" title="TechBeacon" type="rss" xmlUrl="https://feedpress.me/techbeacon" htmlUrl="http://techbeacon.com/"/>
+      <outline text="Big Nerd Ranch" title="Big Nerd Ranch" type="rss" xmlUrl="https://www.bignerdranch.com/feed.xml" htmlUrl="https://www.bignerdranch.com/"/>
+      <outline text="Yalantis Blog" title="Yalantis Blog" type="rss" xmlUrl="http://yalantis.com/blog/feed/" htmlUrl="http://yalantis.com/blog/"/>
+      <outline text="Novoda" title="Novoda" type="rss" xmlUrl="http://novoda.com/blog/rss/" htmlUrl="http://novoda.com/blog/"/>
+      <outline text="Realm News" title="Realm News" type="rss" xmlUrl="https://feeds.feedburner.com/realmio" htmlUrl="https://realm.io/"/>
+      <outline text="Mindorks" title="Mindorks" type="rss" xmlUrl="https://blog.mindorks.com/feed" htmlUrl="https://blog.mindorks.com/?source=rss----f1a763fc7443---4"/>
+      <outline text="Philosophical Hacker" title="Philosophical Hacker" type="rss" xmlUrl="http://kmdupr33.github.io/index.xml" htmlUrl="http://kmdupr33.github.io/"/>
+      <outline text="Android Hipster" title="Android Hipster" type="rss" xmlUrl="http://artemzin.com/blog/rss/" htmlUrl="http://artemzin.com/blog/"/>
+    </outline>
+    <outline text="Blogs - Other" title="Blogs - Other">
+      <outline text="Coding Horror" title="Coding Horror" type="rss" xmlUrl="http://feeds.feedburner.com/codinghorror/" htmlUrl="http://blog.codinghorror.com/"/>
+      <outline text="Mike Cohn's Blog" title="Mike Cohn's Blog" type="rss" xmlUrl="http://www.mountaingoatsoftware.com/blog/rss" htmlUrl="http://www.mountaingoatsoftware.com/blog/"/>
+      <outline text="Base Lab" title="Base Lab" type="rss" xmlUrl="https://lab.getbase.com/feed/" htmlUrl="https://lab.getbase.com/category/engineering/"/>
+      <outline text="Hyde" title="Hyde" type="rss" xmlUrl="http://saulmm.github.io/atom.xml" htmlUrl="http://hyde.getpoole.com/"/>
+    </outline>
+  </body>
+</opml>
