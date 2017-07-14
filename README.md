@@ -333,7 +333,7 @@ I would really love some feedback on this list I've created and more so would lo
 
 ## Project Maintained By
 
-### Petros Paraskevopoulos - 
+### Petros Paraskevopoulos
 
 Passionate Android Advocate.
 
