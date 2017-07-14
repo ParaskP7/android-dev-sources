@@ -337,7 +337,7 @@ I would really love some feedback on this list I've created and more so would lo
 
 Passionate Android Advocate.
 
-<a href="https://play.google.com/store/apps/details?id=com.lifesigns"><img src="https://github.com/ParaskP7/android-dev-sources/social-icons/blob/master/play-store.png?raw=true" width="60"></a>
+<a href="https://play.google.com/store/apps/details?id=com.lifesigns"><img src="https://github.com/ParaskP7/android-dev-sources/blob/master/social-icons/play-store.png?raw=true" width="60"></a>
 
 ## License
 
