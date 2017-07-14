@@ -10,6 +10,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | Reddit - Kotlin | https://www.reddit.com/r/Kotlin |
 |  | Reddit - Android | https://www.reddit.com/r/androiddev |
 | Podcasts |  |  |
+|  | Talking Kotlin | http://talkingkotlin.com |
 |  | Fragmented | http://fragmentedpodcast.com |
 |  | Android Developers Backstage | http://androidbackstage.blogspot.de |
 |  | The Context #androiddev | https://github.com/artem-zinnatullin/TheContext-Podcast |
