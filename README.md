@@ -338,6 +338,11 @@ I would really love some feedback on this list I've created and more so would lo
 Passionate Android Advocate.
 
 <a href="https://play.google.com/store/apps/details?id=com.lifesigns"><img src="https://github.com/ParaskP7/android-dev-sources/blob/master/social-icons/play-store.ico?raw=true" width="60"></a>
+<a href="https://github.com/ParaskP7"><img src="https://github.com/ParaskP7/android-dev-sources/blob/master/social-icons/github.png?raw=true" width="60"></a>
+<a href="https://twitter.com/paraskevopetros"><img src="https://github.com/ParaskP7/android-dev-sources/blob/master/social-icons/twitter.png?raw=true" width="60"></a>
+<a href="https://plus.google.com/+PetrosParaskevopoulos"><img src="https://github.com/ParaskP7/android-dev-sources/blob/master/social-icons/google-plus.ico?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/petros-paraskevopoulos"><img src="https://github.com/ParaskP7/android-dev-sources/blob/master/social-icons/linkedin.png?raw=true" width="60"></a>
+<a href="https://medium.com/@petros.paraskevopoulos"><img src="https://github.com/ParaskP7/android-dev-sources/blob/master/social-icons/medium.ico?raw=true" width="60"></a>
 
 ## License
 
