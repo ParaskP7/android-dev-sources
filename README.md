@@ -196,6 +196,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | ConstraintLayout | https://github.com/ConstraintLayout/constraintlayout.github.io |
 |  | Lottie | https://github.com/airbnb/lottie-android |
 |  | Timber | https://github.com/JakeWharton/timber |
+|  | Hugo | https://github.com/JakeWharton/hugo |
 | One Library Per Month | Other |  |
 |  | Android Arsenal | http://android-arsenal.com |
 |  | Material Up | https://material.uplabs.com |
