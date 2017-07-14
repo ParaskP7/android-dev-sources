@@ -31,6 +31,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | Bandhook Kotlin | https://github.com/antoniolg/Bandhook-Kotlin |
 |  | KEEP | https://github.com/Kotlin/KEEP |
 |  | Kotlin Coroutines | https://github.com/Kotlin/kotlin-coroutines |
+|  | Idiomatic Kotlin | https://github.com/yole/idiomatic-kotlin |
 | GitHub Projects | Android |  |
 |  | What's Trending in Java & Android | https://github.com/trending/java |
 |  | Awesome Lists | https://github.com/sindresorhus/awesome |
