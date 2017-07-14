@@ -58,12 +58,17 @@ All those Android development sources that you need to be and stay awesome!
 |  | Util Code | https://github.com/Blankj/AndroidUtilCode |
 |  | Put It All Together | https://github.com/athkalia/Just-Another-Android-App |
 |  | Android Development Blogs | https://github.com/ziem/android-development-blogs |
+| Blogs | Grandmasters |  |
+|  | The Clean Code | http://blog.cleancoder.com |
+|  | Martin Fowler | https://martinfowler.com |
 | Blogs | Kotlin |  |
 |  | JetBrains | https://blog.jetbrains.com/kotlin |
 |  | Hadi Hariri | http://hadihariri.com |
 |  | Antonio Leiva | https://antonioleiva.com/category/blog |
 |  | Jim Baca | http://blog.jimbaca.com |
 |  | Simon Wirtz | https://blog.simon-wirtz.de |
+| Blogs | Reactive |  |
+|  | Advanced Reactive Java | http://akarnokd.blogspot.de |
 | Blogs | Developers |  |
 |  | Jake Wharton | http://jakewharton.com |
 |  | Donn Felker | http://www.donnfelker.com |
@@ -81,8 +86,22 @@ All those Android development sources that you need to be and stay awesome!
 |  | Wolfram Rittmeyer | http://www.grokkingandroid.com |
 |  | Zarah Dominguez | http://www.zdominguez.com |
 |  | Fernando Cejas | https://fernandocejas.com |
-| Blogs | Companies |  |
+|  | Kelly Shuster | http://www.kiodev.com |
+|  | Michael Evans | http://michaelevans.org |
+|  | Michał Łuszczuk | http://blog.propaneapps.com |
+|  | Ryan Harter | http://ryanharter.com |
+| Blogs | Medium |  |
+|  | Pro Android Dev | https://proandroiddev.com |
+|  | Android DEV | https://medium.com/tag/androiddev |
+|  | Android Pub | https://android.jlelse.eu |
+|  | Patryk Poborca | https://medium.com/@patrykpoborca |
+|  | César Ferreira | https://medium.com/@cesarmcferreira |
+|  | Sebastiano Poggi |https://medium.com/@seebrock3r|
+| Blogs | Google |  |
+|  | Google Developers | https://developers.googleblog.com |
 |  | Android Developers | https://android-developers.googleblog.com |
+| Blogs | Companies |  |
+|  | JetBrains | https://blog.jetbrains.com/idea |
 |  | Square | https://medium.com/square-corner-blog |
 |  | Realm | https://realm.io/news |
 |  | Genymotion | https://www.genymotion.com/blog |
@@ -94,10 +113,12 @@ All those Android development sources that you need to be and stay awesome!
 |  | The Cheese Factory | https://inthecheesefactory.com/blog |
 |  | TechBeacon | https://techbeacon.com/mobile |
 |  | Mindorks | https://blog.mindorks.com |
-| Blogs | Medium |  |
-|  | Pro Android Dev | https://proandroiddev.com
-|  | Android DEV | https://medium.com/tag/androiddev
-|  | Android Pub | https://android.jlelse.eu
+|  | Novoda | https://www.novoda.com/blog |
+| Blogs | Other |  |
+|  | Mike Cohn | https://www.mountaingoatsoftware.com/blog |
+|  | Coding Horror | https://blog.codinghorror.com |
+|  | Base Lab | https://lab.getbase.com/category/engineering |
+|  | Hyde | http://hyde.getpoole.com |
 | Websites/Subscriptions |  |  |
 |  | Kotlin Weekly | http://www.kotlinweekly.net |
 |  | Android Dev Digest | https://www.androiddevdigest.com |
