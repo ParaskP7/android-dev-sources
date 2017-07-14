@@ -62,6 +62,13 @@ All those Android development sources that you need to be and stay awesome!
 |  | Chiu-Ki Chan | http://blog.sqisland.com |
 |  | Chris Banes | https://chris.banes.me |
 |  | Rebecca Franks | https://riggaroo.co.za |
+|  | Zarah Dominguez | http://zdominguez.com |
+|  | Elif Boncuk | https://elifboncuk.com |
+|  | Annyce Davis | http://adavis.info |
+|  | Huyen Dao | http://www.randomlytyping.com/about |
+|  | Lisa Wray | http://www.xwray.com |
+|  | Daichi Furiya | https://wasabeef.jp |
+|  | Scott Alexander-Bown | https://scottyab.com |
 |  | Cyril Mottier | https://cyrilmottier.com |
 |  | Corey Latislaw | http://coreylatislaw.com/category/mobile |
 |  | Wolfram Rittmeyer | http://www.grokkingandroid.com |
