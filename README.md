@@ -37,6 +37,8 @@ All those Android development sources that you need to be and stay awesome!
 |  | Material Up | https://material.uplabs.com |
 |  | Android Niceties | http://androidniceties.tumblr.com |
 |  | Android UI Patterns | http://www.androiduipatterns.com |
+| Android | Marketing |  |
+|  | Weeby Network | https://weebynetwork.com/blog |
 | Android | Libraries |  |
 |  | Android Arsenal | http://android-arsenal.com |
 | Blogs | Grandmasters |  |
