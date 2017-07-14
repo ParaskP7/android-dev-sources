@@ -59,6 +59,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | Dan Lew Codes | http://blog.danlew.net |
 |  | Chiu-Ki Chan | http://blog.sqisland.com |
 |  | Chris Banes | https://chris.banes.me |
+|  | Rebecca Franks | https://riggaroo.co.za |
 |  | Cyril Mottier | https://cyrilmottier.com |
 |  | Corey Latislaw | http://coreylatislaw.com/category/mobile |
 |  | Wolfram Rittmeyer | http://www.grokkingandroid.com |
@@ -78,7 +79,8 @@ All those Android development sources that you need to be and stay awesome!
 |  | NitinKumar Gove | https://medium.com/@nitinkumargove |
 |  | Patryk Poborca | https://medium.com/@patrykpoborca |
 |  | César Ferreira | https://medium.com/@cesarmcferreira |
-|  | Sebastiano Poggi |https://medium.com/@seebrock3r|
+|  | Sebastiano Poggi | https://medium.com/@seebrock3r |
+|  | Sebastiano Gottardo | https://medium.com/@rotxed |
 | Blogs | Google |  |
 |  | Google Developers | https://developers.googleblog.com |
 |  | Android Developers | https://android-developers.googleblog.com |
