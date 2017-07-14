@@ -54,15 +54,12 @@ All those Android development sources that you need to be and stay awesome!
 |  | Jake Wharton | http://jakewharton.com |
 |  | Donn Felker | http://www.donnfelker.com |
 |  | Kaushik Gopal | http://blog.kaush.co |
-|  | Chet Haase | https://medium.com/@chethaase |
 |  | Mark Allison | https://blog.stylingandroid.com |
 |  | Hannes Dorfmann | http://hannesdorfmann.com |
 |  | Dan Lew Codes | http://blog.danlew.net |
 |  | Chiu-Ki Chan | http://blog.sqisland.com |
-|  | Florina Muntenescu | https://medium.com/@florina.muntenescu |
 |  | Chris Banes | https://chris.banes.me |
 |  | Cyril Mottier | https://cyrilmottier.com |
-|  | NitinKumar Gove | https://medium.com/@nitinkumargove |
 |  | Corey Latislaw | http://coreylatislaw.com/category/mobile |
 |  | Wolfram Rittmeyer | http://www.grokkingandroid.com |
 |  | Zarah Dominguez | http://www.zdominguez.com |
@@ -72,9 +69,13 @@ All those Android development sources that you need to be and stay awesome!
 |  | Michał Łuszczuk | http://blog.propaneapps.com |
 |  | Ryan Harter | http://ryanharter.com |
 | Blogs | Medium |  |
+|  | Square Corner | https://medium.com/square-corner-blog |
 |  | Pro Android Dev | https://proandroiddev.com |
 |  | Android DEV | https://medium.com/tag/androiddev |
 |  | Android Pub | https://android.jlelse.eu |
+|  | Chet Haase | https://medium.com/@chethaase |
+|  | Florina Muntenescu | https://medium.com/@florina.muntenescu |
+|  | NitinKumar Gove | https://medium.com/@nitinkumargove |
 |  | Patryk Poborca | https://medium.com/@patrykpoborca |
 |  | César Ferreira | https://medium.com/@cesarmcferreira |
 |  | Sebastiano Poggi |https://medium.com/@seebrock3r|
@@ -83,7 +84,6 @@ All those Android development sources that you need to be and stay awesome!
 |  | Android Developers | https://android-developers.googleblog.com |
 | Blogs | Companies |  |
 |  | JetBrains | https://blog.jetbrains.com/idea |
-|  | Square | https://medium.com/square-corner-blog |
 |  | Realm | https://realm.io/news |
 |  | Genymotion | https://www.genymotion.com/blog |
 |  | CommonsWare | https://commonsware.com/blog |
@@ -107,11 +107,11 @@ All those Android development sources that you need to be and stay awesome!
 |  | Kaushik Gopal | https://twitter.com/kaushikgopal |
 |  | Chet Haase | https://twitter.com/chethaase |
 |  | Tor Norbye | https://twitter.com/tornorbye |
-|  | Blogs | (see relevant section) |
 |  | Websites/Subscriptions | (see relevant section) |
+|  | Courses/Presentations/Tutorials | (see relevant section) |
+|  | Blogs | (see relevant section) |
 |  | YouTube Channels | (see relevant section) |
 |  | Community/Meetups | (see relevant section) |
-|  | Courses/Presentations | (see relevant section) |
 | YouTube | Channels |  |
 |  | Android Developers | https://www.youtube.com/user/androiddevelopers |
 |  | Android Dialogs | https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug |
