@@ -5,6 +5,11 @@ All those Android development sources that you need to be and stay awesome!
 
 | Category | Title | URL |
 | ------------- | ------------- | ------------- |
+| Apps |  |  |
+|  | Inoreader - News Reader & RSS | https://play.google.com/store/apps/details?id=com.innologica.inoreader |
+|  | Reddit: The Official App | https://play.google.com/store/apps/details?id=com.reddit.frontpage |
+|  | Player FM - Podcast Offline | https://play.google.com/store/apps/details?id=fm.player |
+|  | Playbook for Developers | https://play.google.com/store/apps/details?id=com.google.android.apps.secrets |
 | RSS and News Aggregators |  |  |
 |  | Inoreader | https://www.inoreader.com |
 |  | Reddit - Kotlin | https://www.reddit.com/r/Kotlin |
@@ -15,50 +20,25 @@ All those Android development sources that you need to be and stay awesome!
 |  | Android Developers Backstage | http://androidbackstage.blogspot.de |
 |  | The Context #androiddev | https://github.com/artem-zinnatullin/TheContext-Podcast |
 |  | Native Wheelhouse | https://nativewheel.house |
-| Apps |  |  |
-|  | Inoreader - News Reader & RSS | https://play.google.com/store/apps/details?id=com.innologica.inoreader |
-|  | Reddit: The Official App | https://play.google.com/store/apps/details?id=com.reddit.frontpage |
-|  | Player FM - Podcast Offline | https://play.google.com/store/apps/details?id=fm.player |
-|  | Playbook for Developers | https://play.google.com/store/apps/details?id=com.google.android.apps.secrets |
-| Previews/EAP |  |  |
-|  | Android O | https://developer.android.com/preview/index.html |
-|  | Android Studio 3.0 | https://developer.android.com/studio/preview/index.html |
-|  | Kotlin 1.1.4 EAP | https://discuss.kotlinlang.org/t/kotlin-1-1-4-eap/3721 |
-|  | Kotlin 1.2 EAP | https://blog.jetbrains.com/kotlin/2017/06/early-access-program-for-kotlin-1-2-has-been-started/ |
-| GitHub Projects | Kotlin |  |
-|  | What's Trending in Kotlin | https://github.com/trending/kotlin |
-|  | Awesome Kotlin | https://github.com/KotlinBy/awesome-kotlin |
-|  | Kotlin Koans | https://github.com/Kotlin/kotlin-koans |
-|  | Design Patterns In Kotlin | https://github.com/dbacinski/Design-Patterns-In-Kotlin |
-|  | Bandhook Kotlin | https://github.com/antoniolg/Bandhook-Kotlin |
-|  | KEEP | https://github.com/Kotlin/KEEP |
-|  | Kotlin Coroutines | https://github.com/Kotlin/kotlin-coroutines |
-|  | Idiomatic Kotlin | https://github.com/yole/idiomatic-kotlin |
-| GitHub Projects | Android |  |
-|  | What's Trending in Java & Android | https://github.com/trending/java |
-|  | Awesome Lists | https://github.com/sindresorhus/awesome |
-|  | Awesome Java | https://github.com/akullpp/awesome-java |
-|  | Awesome Android | https://github.com/JStumpp/awesome-android |
-|  | Awesome RxJava | https://github.com/eleventigers/awesome-rxjava |
-|  | Awesome UI/UX | https://github.com/wasabeef/awesome-android-ui |
-|  | Awesome Material Design | https://github.com/sachin1092/awesome-material |
-|  | Android Guides | https://github.com/aritraroy/UltimateAndroidReference |
-|  | Android Guides | https://github.com/codepath/android_guides/wiki |
-|  | Android Guides | https://github.com/ribot/android-guidelines |
-|  | Best Practices | https://github.com/futurice/android-best-practices |
-|  | Architecture | https://github.com/googlesamples/android-architecture |
-|  | Architecture Components | https://github.com/googlesamples/android-architecture-components |
-|  | Clean Architecture | https://github.com/android10/Android-CleanArchitecture |
-|  | MVP | https://github.com/sockeqwe/mosby |
-|  | RxJava | https://github.com/kaushikgopal/RxJava-Android-Samples |
-|  | RxJava | https://github.com/amitshekhariitbhu/RxJava2-Android-Samples |
-|  | Dagger | https://github.com/JakeWharton/u2020 |
-|  | Testing | https://github.com/googlesamples/android-testing |
-|  | Quality | https://github.com/artem-zinnatullin/qualitymatters |
-|  | Material Design | https://github.com/nickbutcher/plaid |
-|  | Util Code | https://github.com/Blankj/AndroidUtilCode |
-|  | Put It All Together | https://github.com/athkalia/Just-Another-Android-App |
-|  | Android Development Blogs | https://github.com/ziem/android-development-blogs |
+| Websites/Subscriptions |  |  |
+|  | Kotlin Weekly | http://www.kotlinweekly.net |
+|  | Android Weekly | http://androidweekly.net |
+|  | Android Dev Digest | https://www.androiddevdigest.com |
+|  | InfoQ | https://www.infoq.com/android |
+|  | JournalDev | http://www.journaldev.com |
+| Courses/Presentations/Tutorials |  |  |
+|  | Caster IO | https://caster.io/courses |
+|  | Udacity | https://www.udacity.com/courses/android |
+|  | Envato Tuts Plus | https://code.tutsplus.com/categories/android/courses |
+|  | Speaker Deck | https://speakerdeck.com |
+|  | Android Hive | https://www.androidhive.info |
+|  | Ray Wenderlich | https://www.raywenderlich.com/category/android |
+| Android | Design |  |
+|  | Material Up | https://material.uplabs.com |
+|  | Android Niceties | http://androidniceties.tumblr.com |
+|  | Android UI Patterns | http://www.androiduipatterns.com |
+| Android | Libraries |  |
+|  | Android Arsenal | http://android-arsenal.com |
 | Blogs | Grandmasters |  |
 |  | The Clean Code | http://blog.cleancoder.com |
 |  | Martin Fowler | https://martinfowler.com |
@@ -120,12 +100,18 @@ All those Android development sources that you need to be and stay awesome!
 |  | Coding Horror | https://blog.codinghorror.com |
 |  | Base Lab | https://lab.getbase.com/category/engineering |
 |  | Hyde | http://hyde.getpoole.com |
-| Websites/Subscriptions |  |  |
-|  | Kotlin Weekly | http://www.kotlinweekly.net |
-|  | Android Dev Digest | https://www.androiddevdigest.com |
-|  | Android Weekly | http://androidweekly.net |
-|  | InfoQ | https://www.infoq.com/android |
-|  | JournalDev | http://www.journaldev.com |
+| Twitter | Follow |  |
+|  | Google Developers Experts | https://developers.google.com/experts |
+|  | Jake Wharton | https://twitter.com/JakeWharton |
+|  | Donn Felker | https://twitter.com/donnfelker |
+|  | Kaushik Gopal | https://twitter.com/kaushikgopal |
+|  | Chet Haase | https://twitter.com/chethaase |
+|  | Tor Norbye | https://twitter.com/tornorbye |
+|  | Blogs | (see relevant section) |
+|  | Websites/Subscriptions | (see relevant section) |
+|  | YouTube Channels | (see relevant section) |
+|  | Community/Meetups | (see relevant section) |
+|  | Courses/Presentations | (see relevant section) |
 | YouTube | Channels |  |
 |  | Android Developers | https://www.youtube.com/user/androiddevelopers |
 |  | Android Dialogs | https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug |
@@ -161,24 +147,6 @@ All those Android development sources that you need to be and stay awesome!
 |  | GDG Berlin | https://www.meetup.com/gdgberlin |
 | Community/Meetups | Athens |  |
 |  | GDG Android Athens | https://www.meetup.com/GDG-Android-Athens |
-| Courses/Presentations/Tutorials |  |  |
-|  | Caster IO | https://caster.io/courses |
-|  | Udacity | https://www.udacity.com/courses/android |
-|  | Envato Tuts Plus | https://code.tutsplus.com/categories/android/courses |
-|  | Speaker Deck | https://speakerdeck.com |
-|  | Ray Wenderlich | https://www.raywenderlich.com/category/android |
-| Twitter | Follow |  |
-|  | Google Developers Experts | https://developers.google.com/experts |
-|  | Jake Wharton | https://twitter.com/JakeWharton |
-|  | Donn Felker | https://twitter.com/donnfelker |
-|  | Kaushik Gopal | https://twitter.com/kaushikgopal |
-|  | Chet Haase | https://twitter.com/chethaase |
-|  | Tor Norbye | https://twitter.com/tornorbye |
-|  | Blogs | (see relevant section) |
-|  | Websites/Subscriptions | (see relevant section) |
-|  | YouTube Channels | (see relevant section) |
-|  | Community/Meetups | (see relevant section) |
-|  | Courses/Presentations | (see relevant section) |
 | Slack | Join |  |
 |  | Kotlin Language | kotlinlang.slack.com |
 |  | Android United | android-united.slack.com |
@@ -189,6 +157,45 @@ All those Android development sources that you need to be and stay awesome!
 |  | ADG Berlin | adg-berlin.slack.com |
 |  | Android Dev Brazil | androiddevbr.slack.com |
 |  | Greek Android Developers | androiddevs-gr.slack.com |
+| Previews/EAP |  |  |
+|  | Android O | https://developer.android.com/preview/index.html |
+|  | Android Studio 3.0 | https://developer.android.com/studio/preview/index.html |
+|  | Kotlin 1.1.4 EAP | https://discuss.kotlinlang.org/t/kotlin-1-1-4-eap/3721 |
+|  | Kotlin 1.2 EAP | https://blog.jetbrains.com/kotlin/2017/06/early-access-program-for-kotlin-1-2-has-been-started/ |
+| GitHub Projects | Kotlin |  |
+|  | What's Trending in Kotlin | https://github.com/trending/kotlin |
+|  | Awesome Kotlin | https://github.com/KotlinBy/awesome-kotlin |
+|  | Kotlin Koans | https://github.com/Kotlin/kotlin-koans |
+|  | Design Patterns In Kotlin | https://github.com/dbacinski/Design-Patterns-In-Kotlin |
+|  | Bandhook Kotlin | https://github.com/antoniolg/Bandhook-Kotlin |
+|  | KEEP | https://github.com/Kotlin/KEEP |
+|  | Kotlin Coroutines | https://github.com/Kotlin/kotlin-coroutines |
+|  | Idiomatic Kotlin | https://github.com/yole/idiomatic-kotlin |
+| GitHub Projects | Android |  |
+|  | What's Trending in Java & Android | https://github.com/trending/java |
+|  | Awesome Lists | https://github.com/sindresorhus/awesome |
+|  | Awesome Java | https://github.com/akullpp/awesome-java |
+|  | Awesome Android | https://github.com/JStumpp/awesome-android |
+|  | Awesome RxJava | https://github.com/eleventigers/awesome-rxjava |
+|  | Awesome UI/UX | https://github.com/wasabeef/awesome-android-ui |
+|  | Awesome Material Design | https://github.com/sachin1092/awesome-material |
+|  | Android Guides | https://github.com/aritraroy/UltimateAndroidReference |
+|  | Android Guides | https://github.com/codepath/android_guides/wiki |
+|  | Android Guides | https://github.com/ribot/android-guidelines |
+|  | Best Practices | https://github.com/futurice/android-best-practices |
+|  | Architecture | https://github.com/googlesamples/android-architecture |
+|  | Architecture Components | https://github.com/googlesamples/android-architecture-components |
+|  | Clean Architecture | https://github.com/android10/Android-CleanArchitecture |
+|  | MVP | https://github.com/sockeqwe/mosby |
+|  | RxJava | https://github.com/kaushikgopal/RxJava-Android-Samples |
+|  | RxJava | https://github.com/amitshekhariitbhu/RxJava2-Android-Samples |
+|  | Dagger | https://github.com/JakeWharton/u2020 |
+|  | Testing | https://github.com/googlesamples/android-testing |
+|  | Quality | https://github.com/artem-zinnatullin/qualitymatters |
+|  | Material Design | https://github.com/nickbutcher/plaid |
+|  | Util Code | https://github.com/Blankj/AndroidUtilCode |
+|  | Put It All Together | https://github.com/athkalia/Just-Another-Android-App |
+|  | Android Development Blogs | https://github.com/ziem/android-development-blogs |
 | One Library Per Month | Kotlin |  |
 |  | Anko | https://github.com/Kotlin/anko |
 |  | RxKotlin | https://github.com/ReactiveX/RxKotlin |
@@ -219,9 +226,6 @@ All those Android development sources that you need to be and stay awesome!
 |  | Lottie | https://github.com/airbnb/lottie-android |
 |  | Timber | https://github.com/JakeWharton/timber |
 |  | Hugo | https://github.com/JakeWharton/hugo |
-| One Library Per Month | Other |  |
-|  | Android Arsenal | http://android-arsenal.com |
-|  | Material Up | https://material.uplabs.com |
 | One Platform Per Quarter |  |  |
 |  | Firebase | https://firebase.google.com |
 |  | Fabric | https://get.fabric.io |
