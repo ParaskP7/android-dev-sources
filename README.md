@@ -1,4 +1,4 @@
-# Hey, WELCOME! :grinning:
+# Hey, WELCOME! :pray:
 Below you will find all those Android development sources that you need to be and stay awesome!
 
 ' :heart: ' **THE FOCUS IS ON KOTLIN** ' :heart: '
