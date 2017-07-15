@@ -6,7 +6,7 @@ Below you will find all those Android development sources that you need to be an
 Since Google announced support for Kotlin you will be finding more and more sources that focus around Kotlin.  
 
 ## OPML
-Don't forget to check out the OPML subscriptions file included in this project (*subscriptions.xml*). This will make it very easy for you to import all this amazing feeds into your favorite RSS reader. 
+Don't forget to check out the OPML subscriptions file included in this project (*[subscriptions.xml](https://github.com/ParaskP7/android-dev-sources/blob/master/subscriptions.xml)*). This will make it very easy for you to import all this amazing feeds into your favorite RSS reader. 
 
 :+1: **JUST DO IT!** :+1:
 
