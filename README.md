@@ -225,6 +225,7 @@ Keep up to date with the latest and greatest in Android.
 |  | SQLDelight | https://github.com/square/sqldelight |
 |  | Detekt | https://github.com/arturbosch/detekt |
 |  | Spek | https://github.com/JetBrains/spek |
+|  | Kotlin Koi | https://github.com/mcxiaoke/kotlin-koi |
 | One Library Per Month | Android |  |
 |  | Android Architecture Components | https://developer.android.com/topic/libraries/architecture/index.html |
 |  | DataBinding | https://developer.android.com/topic/libraries/data-binding/index.html |
