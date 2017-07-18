@@ -248,6 +248,7 @@ Keep up to date with the latest and greatest in Android.
 |  | AutoValue | https://github.com/google/auto |
 |  | Parceler | https://github.com/johncarl81/parceler |
 |  | PermissionsDispatcher | https://github.com/hotchemi/PermissionsDispatcher |
+|  | Shortbread | https://github.com/MatthiasRobbers/shortbread |
 |  | ConstraintLayout | https://github.com/ConstraintLayout/constraintlayout.github.io |
 |  | Lottie | https://github.com/airbnb/lottie-android |
 |  | Timber | https://github.com/JakeWharton/timber |
