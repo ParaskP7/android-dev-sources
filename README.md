@@ -129,6 +129,7 @@ Keep up to date with the latest and greatest in Android.
 |  | Kaushik Gopal | https://twitter.com/kaushikgopal |
 |  | Chet Haase | https://twitter.com/chethaase |
 |  | Tor Norbye | https://twitter.com/tornorbye |
+|  | Genymotion | https://twitter.com/Genymotion |
 |  | Websites/Subscriptions | (see relevant section) |
 |  | Courses/Presentations/Tutorials | (see relevant section) |
 |  | Blogs | (see relevant section) |
