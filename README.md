@@ -202,6 +202,7 @@ Keep up to date with the latest and greatest in Android.
 |  | Awesome RxJava | https://github.com/eleventigers/awesome-rxjava |
 |  | Awesome UI/UX | https://github.com/wasabeef/awesome-android-ui |
 |  | Awesome Material Design | https://github.com/sachin1092/awesome-material |
+|  | Awesome Android Things | https://github.com/amitshekhariitbhu/awesome-android-things |
 |  | Android Guides | https://github.com/aritraroy/UltimateAndroidReference |
 |  | Android Guides | https://github.com/codepath/android_guides/wiki |
 |  | Android Guides | https://github.com/ribot/android-guidelines |
