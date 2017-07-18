@@ -100,6 +100,7 @@ Keep up to date with the latest and greatest in Android.
 |  | César Ferreira | https://medium.com/@cesarmcferreira |
 |  | Sebastiano Poggi | https://medium.com/@seebrock3r |
 |  | Sebastiano Gottardo | https://medium.com/@rotxed |
+|  | Aritra Roy | https://blog.aritraroy.in |
 | Blogs | Google |  |
 |  | Google Developers | https://developers.googleblog.com |
 |  | Android Developers | https://android-developers.googleblog.com |
@@ -313,6 +314,7 @@ Keep up to date with the latest and greatest in Android.
 |  | Tips and tricks we picked from 2015 | http://fragmentedpodcast.com/episodes/28 |
 |  | Talking TextView with Elliott Chenger - Performance | http://fragmentedpodcast.com/episodes/39 |
 |  | How to become a better Android developer: 30+ bite-sized pro tips | https://techbeacon.com/how-become-better-android-developer-30-bite-sized-pro-tips |
+|  | 30+ Kickass Tools to Develop Android Apps Like a Pro | https://blog.aritraroy.in/30-kickass-tools-to-develop-android-apps-like-a-pro-191e52b9419b |
 
 ### Contributing guidelines
 
