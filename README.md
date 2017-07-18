@@ -32,6 +32,7 @@ Keep up to date with the latest and greatest in Android.
 |  | Native Wheelhouse | https://nativewheel.house |
 | Websites/Subscriptions |  |  |
 |  | Kotlin Weekly | http://www.kotlinweekly.net |
+|  | Super Kotlin | https://superkotlin.com |
 |  | Android Weekly | http://androidweekly.net |
 |  | Android Dev Digest | https://www.androiddevdigest.com |
 |  | InfoQ | https://www.infoq.com/android |

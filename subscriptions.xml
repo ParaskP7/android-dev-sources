@@ -17,6 +17,7 @@
     </outline>
     <outline text="Android Summary" title="Android Summary">
       <outline text="Kotlin Weekly" title="Kotlin Weekly" type="rss" xmlUrl="http://us12.campaign-archive2.com/feed?u=f39692e245b94f7fb693b6d82&amp;id=93b2272cb6" htmlUrl="http://us12.campaign-archive.com/feed?u=f39692e245b94f7fb693b6d82&amp;id=93b2272cb6"/>
+      <outline text="SuperKotlin" title="SuperKotlin" type="rss" xmlUrl="https://superkotlin.com/feed/" htmlUrl="https://superkotlin.com/"/>
       <outline text="Android Weekly" title="Android Weekly" type="rss" xmlUrl="http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19" htmlUrl="http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19"/>
       <outline text="#AndroidDev Digest" title="#AndroidDev Digest" type="rss" xmlUrl="https://www.androiddevdigest.com/feed/" htmlUrl="https://www.androiddevdigest.com/"/>
       <outline text="InfoQ - Android" title="InfoQ - Android" type="rss" xmlUrl="https://www.infoq.com/feed/android" htmlUrl="http://www.infoq.com/"/>
