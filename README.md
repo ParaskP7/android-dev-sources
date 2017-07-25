@@ -44,7 +44,6 @@ Keep up to date with the latest and greatest in Android.
 |  | Envato Tuts Plus | https://code.tutsplus.com/categories/android/courses |
 |  | Speaker Deck | https://speakerdeck.com |
 |  | Android Hive | https://www.androidhive.info |
-|  | Ray Wenderlich | https://www.raywenderlich.com/category/android |
 | Android | Design |  |
 |  | Material Up | https://material.uplabs.com |
 |  | Android Niceties | http://androidniceties.tumblr.com |
@@ -119,6 +118,7 @@ Keep up to date with the latest and greatest in Android.
 |  | Mindorks | https://blog.mindorks.com |
 |  | Novoda | https://www.novoda.com/blog |
 | Blogs | Other |  |
+|  | Ray Wenderlich | https://www.raywenderlich.com/category/android |
 |  | TechBeacon | https://techbeacon.com/mobile |
 |  | Mike Cohn | https://www.mountaingoatsoftware.com/blog |
 |  | Coding Horror | https://blog.codinghorror.com |

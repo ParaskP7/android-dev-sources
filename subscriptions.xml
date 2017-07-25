@@ -26,7 +26,6 @@
     <outline text="Android Tutorials" title="Android Tutorials">
       <outline text="CASTER.IO" title="CASTER.IO" type="rss" xmlUrl="https://caster.io/feed/" htmlUrl="https://caster.io"/>
       <outline text="Android Hive" title="Android Hive" type="rss" xmlUrl="http://www.androidhive.info/feed/" htmlUrl="http://www.androidhive.info/"/>
-      <outline text="Ray Wenderlich" title="Ray Wenderlich" type="rss" xmlUrl="http://feeds.feedburner.com/RayWenderlich" htmlUrl="http://www.raywenderlich.com/"/>
     </outline>
     <outline text="Android Design" title="Android Design">
       <outline text="MaterialUp" title="MaterialUp" type="rss" xmlUrl="http://www.materialup.com/rss" htmlUrl="http://www.materialup.com/designs"/>
@@ -105,6 +104,7 @@
       <outline text="Novoda" title="Novoda" type="rss" xmlUrl="http://novoda.com/blog/rss/" htmlUrl="http://novoda.com/blog/"/>
     </outline>
     <outline text="Blogs - Other" title="Blogs - Other">
+      <outline text="Ray Wenderlich" title="Ray Wenderlich" type="rss" xmlUrl="http://feeds.feedburner.com/RayWenderlich" htmlUrl="http://www.raywenderlich.com/"/>
       <outline text="TechBeacon" title="TechBeacon" type="rss" xmlUrl="https://feedpress.me/techbeacon" htmlUrl="http://techbeacon.com/"/>
       <outline text="Mike Cohn's Blog" title="Mike Cohn's Blog" type="rss" xmlUrl="http://www.mountaingoatsoftware.com/blog/rss" htmlUrl="http://www.mountaingoatsoftware.com/blog/"/>
       <outline text="Coding Horror" title="Coding Horror" type="rss" xmlUrl="http://feeds.feedburner.com/codinghorror/" htmlUrl="http://blog.codinghorror.com/"/>
