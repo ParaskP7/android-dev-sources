@@ -25,6 +25,7 @@ Keep up to date with the latest and greatest in Android.
 |  | Reddit - Kotlin | https://www.reddit.com/r/Kotlin |
 |  | Reddit - Android | https://www.reddit.com/r/androiddev |
 | Podcasts |  |  |
+|  | Android Snacks | https://androidsnacks.wordpress.com |
 |  | Talking Kotlin | http://talkingkotlin.com |
 |  | Fragmented | http://fragmentedpodcast.com |
 |  | Android Developers Backstage | http://androidbackstage.blogspot.de |
