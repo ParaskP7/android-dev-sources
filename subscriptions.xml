@@ -101,11 +101,11 @@
       <outline text="Big Nerd Ranch" title="Big Nerd Ranch" type="rss" xmlUrl="https://www.bignerdranch.com/feed.xml" htmlUrl="https://www.bignerdranch.com/"/>
       <outline text="Android Hipster" title="Android Hipster" type="rss" xmlUrl="http://artemzin.com/blog/rss/" htmlUrl="http://artemzin.com/blog/"/>
       <outline text="The Cheese Factory's Blog (English)" title="The Cheese Factory's Blog (English)" type="rss" xmlUrl="http://inthecheesefactory.com/blog/en/rss.xml" htmlUrl="http://inthecheesefactory.com/blog/en"/>
-      <outline text="TechBeacon" title="TechBeacon" type="rss" xmlUrl="https://feedpress.me/techbeacon" htmlUrl="http://techbeacon.com/"/>
       <outline text="Mindorks" title="Mindorks" type="rss" xmlUrl="https://blog.mindorks.com/feed" htmlUrl="https://blog.mindorks.com/?source=rss----f1a763fc7443---4"/>
       <outline text="Novoda" title="Novoda" type="rss" xmlUrl="http://novoda.com/blog/rss/" htmlUrl="http://novoda.com/blog/"/>
     </outline>
     <outline text="Blogs - Other" title="Blogs - Other">
+      <outline text="TechBeacon" title="TechBeacon" type="rss" xmlUrl="https://feedpress.me/techbeacon" htmlUrl="http://techbeacon.com/"/>
       <outline text="Mike Cohn's Blog" title="Mike Cohn's Blog" type="rss" xmlUrl="http://www.mountaingoatsoftware.com/blog/rss" htmlUrl="http://www.mountaingoatsoftware.com/blog/"/>
       <outline text="Coding Horror" title="Coding Horror" type="rss" xmlUrl="http://feeds.feedburner.com/codinghorror/" htmlUrl="http://blog.codinghorror.com/"/>
       <outline text="Base Lab" title="Base Lab" type="rss" xmlUrl="https://lab.getbase.com/feed/" htmlUrl="https://lab.getbase.com/category/engineering/"/>

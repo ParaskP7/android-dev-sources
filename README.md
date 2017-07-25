@@ -116,10 +116,10 @@ Keep up to date with the latest and greatest in Android.
 |  | Big Nerd Ranch | https://www.bignerdranch.com/blog/categories/android |
 |  | Software Engineering Hipster | https://artemzin.com/blog |
 |  | The Cheese Factory | https://inthecheesefactory.com/blog |
-|  | TechBeacon | https://techbeacon.com/mobile |
 |  | Mindorks | https://blog.mindorks.com |
 |  | Novoda | https://www.novoda.com/blog |
 | Blogs | Other |  |
+|  | TechBeacon | https://techbeacon.com/mobile |
 |  | Mike Cohn | https://www.mountaingoatsoftware.com/blog |
 |  | Coding Horror | https://blog.codinghorror.com |
 |  | Base Lab | https://lab.getbase.com/category/engineering |
