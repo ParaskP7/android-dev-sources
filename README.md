@@ -197,6 +197,7 @@ Keep up to date with the latest and greatest in Android.
 |  | KEEP | https://github.com/Kotlin/KEEP |
 |  | Kotlin Coroutines | https://github.com/Kotlin/kotlin-coroutines |
 |  | Idiomatic Kotlin | https://github.com/yole/idiomatic-kotlin |
+|  | Clean Architecture | https://github.com/bufferapp/android-clean-architecture-boilerplate |
 | GitHub Projects | Android |  |
 |  | What's Trending in Java & Android | https://github.com/trending/java |
 |  | Awesome Lists | https://github.com/sindresorhus/awesome |
