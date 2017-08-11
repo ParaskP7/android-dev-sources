@@ -327,7 +327,8 @@ Keep up to date with the latest and greatest in Android.
 |  | Kotlin in Action | [Amazon](https://www.amazon.de/Kotlin-Action-Dmitry-Jemerov/dp/1617293296) |
 |  | Kotlin for Android Developers | [Antonio Leiva](https://antonioleiva.com/kotlin-android-developers-book) |
 | Books | Android |  |
-|  | The Busy Coder's Guide to Android Development | [CommonsWare](https://commonsware.com/Android/) |
+|  | The Busy Coder's Guide to Android Development | [CommonsWare](https://commonsware.com/Android) |
+|  | Android Programming: The Big Nerd Ranch Guide | [Big Nerd Ranch](https://www.bignerdranch.com/books/android-programming) |
 | Books | RxJava |  |
 |  | Reactive Programming with RxJava | [Amazon](https://www.amazon.com/Reactive-Programming-RxJava-Asynchronous-Applications/dp/1491931655) |
 | Books | GitHub |  |
