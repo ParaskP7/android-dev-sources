@@ -44,6 +44,7 @@ Keep up to date with the latest and greatest in Android.
 |  | Envato Tuts Plus | https://code.tutsplus.com/categories/android/courses |
 |  | Speaker Deck | https://speakerdeck.com |
 |  | Android Hive | https://www.androidhive.info |
+|  | Vogella | http://www.vogella.com/tutorials/android.html |
 | Android | Design |  |
 |  | Android Design Patterns | http://www.androiddesignpatterns.com |
 |  | UpLabs Material | https://www.uplabs.com/material |
