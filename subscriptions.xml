@@ -28,7 +28,7 @@
       <outline text="Android Hive" title="Android Hive" type="rss" xmlUrl="http://www.androidhive.info/feed/" htmlUrl="http://www.androidhive.info/"/>
     </outline>
     <outline text="Android Design" title="Android Design">
-      <outline text="MaterialUp" title="MaterialUp" type="rss" xmlUrl="http://www.materialup.com/rss" htmlUrl="http://www.materialup.com/designs"/>
+      <outline text="Android Design Patterns" title="Android Design Patterns" type="rss" xmlUrl="http://www.androiddesignpatterns.com/feed.atom" htmlUrl="http://www.androiddesignpatterns.com/"/>
       <outline text="Android Niceties" title="Android Niceties" type="rss" xmlUrl="http://androidniceties.tumblr.com/rss" htmlUrl="http://androidniceties.tumblr.com/"/>
       <outline text="Android UI Patterns" title="Android UI Patterns" type="rss" xmlUrl="http://www.androiduipatterns.com/feeds/posts/default" htmlUrl="http://www.androiduipatterns.com/"/>
     </outline>

@@ -45,7 +45,8 @@ Keep up to date with the latest and greatest in Android.
 |  | Speaker Deck | https://speakerdeck.com |
 |  | Android Hive | https://www.androidhive.info |
 | Android | Design |  |
-|  | Material Up | https://material.uplabs.com |
+|  | Android Design Patterns | http://www.androiddesignpatterns.com |
+|  | UpLabs Material | https://www.uplabs.com/material |
 |  | Android Niceties | http://androidniceties.tumblr.com |
 |  | Android UI Patterns | http://www.androiduipatterns.com |
 | Android | Marketing |  |
