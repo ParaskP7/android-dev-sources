@@ -93,6 +93,7 @@ Keep up to date with the latest and greatest in Android.
 |  | Michał Łuszczuk | http://blog.propaneapps.com |
 |  | Ryan Harter | http://ryanharter.com |
 | Blogs | Medium |  |
+|  | Google Developers | https://medium.com/google-developers |
 |  | Square Corner | https://medium.com/square-corner-blog |
 |  | Pro Android Dev | https://proandroiddev.com |
 |  | Android DEV | https://medium.com/tag/androiddev |
