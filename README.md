@@ -280,10 +280,14 @@ Keep up to date with the latest and greatest in Android.
 |  | Jacoco | https://github.com/jacoco/jacoco |
 |  | Spoon | https://github.com/square/spoon |
 |  | Composer | https://github.com/gojuno/composer |
-| One Platform Per Quarter |  |  |
+| One Platform Per Quarter | All in One |  |
 |  | Firebase | https://firebase.google.com |
 |  | Fabric | https://get.fabric.io |
 |  | Realm | https://realm.io/products/realm-mobile-platform |
+| One Platform Per Quarter | Crash Reporting |  |
+|  | HockeyApp | https://hockeyapp.net |
+|  | Instabug | https://instabug.com |
+|  | Bugsnag | https://www.bugsnag.com |
 | One Language Per Year |  |  |
 |  | Kotlin | https://kotlinlang.org |
 |  | JavaScript | https://www.javascript.com |
