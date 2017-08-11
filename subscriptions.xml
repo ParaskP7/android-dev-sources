@@ -47,6 +47,7 @@
       <outline text="Hadi Hariri" title="Hadi Hariri" type="rss" xmlUrl="http://hadihariri.com/feed.xml" htmlUrl="http://hadihariri.com/feed.xml"/>
       <outline text="Antonio Leiva" title="Antonio Leiva" type="rss" xmlUrl="http://antonioleiva.com/feed/" htmlUrl="http://antonioleiva.com/"/>
       <outline text="Jim Baca" title="Jim Baca" type="rss" xmlUrl="http://blog.jimbaca.com/feed/" htmlUrl="http://blog.jimbaca.com/"/>
+      <outline text="Tonic Artos" title="Tonic Artos" type="rss" xmlUrl="http://www.tonicartos.nz/feeds/posts/default" htmlUrl="http://www.tonicartos.nz/"/>
     </outline>
     <outline text="Blogs - Reactive" title="Blogs - Reactive">
       <outline text="Advanced RxJava" title="Advanced RxJava" type="rss" xmlUrl="http://akarnokd.blogspot.com/feeds/posts/default" htmlUrl="http://akarnokd.blogspot.com/"/>

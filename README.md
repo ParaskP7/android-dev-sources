@@ -61,6 +61,7 @@ Keep up to date with the latest and greatest in Android.
 |  | Antonio Leiva | https://antonioleiva.com/category/blog |
 |  | Jim Baca | http://blog.jimbaca.com |
 |  | Simon Wirtz | https://blog.simon-wirtz.de |
+|  | Tonic Artos | http://www.tonicartos.nz |
 | Blogs | Reactive |  |
 |  | Advanced Reactive Java | http://akarnokd.blogspot.de |
 | Blogs | Developers |  |
