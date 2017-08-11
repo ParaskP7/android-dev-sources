@@ -288,6 +288,10 @@ Keep up to date with the latest and greatest in Android.
 |  | HockeyApp | https://hockeyapp.net |
 |  | Instabug | https://instabug.com |
 |  | Bugsnag | https://www.bugsnag.com |
+| One Platform Per Quarter | Tracking |  |
+|  | Mixpanel | https://mixpanel.com |
+|  | Countly | https://count.ly |
+|  | CleverTap | https://clevertap.com |
 | One Language Per Year |  |  |
 |  | Kotlin | https://kotlinlang.org |
 |  | JavaScript | https://www.javascript.com |
