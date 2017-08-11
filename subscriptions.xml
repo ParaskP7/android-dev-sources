@@ -81,10 +81,11 @@
       <outline text="Pro Android Dev" title="Pro Android Dev" type="rss" xmlUrl="https://proandroiddev.com/feed" htmlUrl="https://proandroiddev.com/?source=rss----c72404660798---4"/>
       <outline text="Android Dev" title="Android Dev" type="rss" xmlUrl="https://medium.com/feed/tag/androiddev" htmlUrl="https://medium.com/tag/androiddev/latest?source=rss------androiddev-5"/>
       <outline text="Android Pub" title="Android Pub" type="rss" xmlUrl="https://android.jlelse.eu/feed" htmlUrl="https://android.jlelse.eu/?source=rss----8fca399d4de---4"/>
-      <outline text="Android Friendly" title="Android Friendly" type="rss" xmlUrl="https://android.i-visionblog.com/feed" htmlUrl="https://android.i-visionblog.com/?source=rss----e7420e6c98ad---4"/><outline text="Chet Haase" title="Chet Haase" type="rss" xmlUrl="https://medium.com/feed/@chethaase" htmlUrl="https://medium.com/@chethaase?source=rss-cb2c4874d3e9------2"/>
+      <outline text="Android Friendly" title="Android Friendly" type="rss" xmlUrl="https://android.i-visionblog.com/feed" htmlUrl="https://android.i-visionblog.com/?source=rss----e7420e6c98ad---4"/>
       <outline text="Fueled Android" title="Fueled Android" type="rss" xmlUrl="https://medium.com/feed/fueled-android" htmlUrl="https://medium.com/fueled-android?source=rss----d234134be3b9---4"/>
       <outline text="Heetch Engineering" title="Heetch Engineering" type="rss" xmlUrl="https://eng.heetch.com/feed" htmlUrl="https://eng.heetch.com/?source=rss----9017992fea88---4"/>
       <outline text="Mobile Engineering" title="Mobile Engineering" type="rss" xmlUrl="https://medium.com/feed/mobile-engineering" htmlUrl="https://medium.com/mobile-engineering?source=rss----be86cacfe1ce---4"/>
+      <outline text="Chet Haase" title="Chet Haase" type="rss" xmlUrl="https://medium.com/feed/@chethaase" htmlUrl="https://medium.com/@chethaase?source=rss-cb2c4874d3e9------2"/>
       <outline text="Florina Muntenescu" title="Florina Muntenescu" type="rss" xmlUrl="https://medium.com/feed/@florina.muntenescu" htmlUrl="https://medium.com/@florina.muntenescu?source=rss-d5885adb1ddf------2"/>
       <outline text="Nitinkumar Gove" title="Nitinkumar Gove" type="rss" xmlUrl="https://medium.com/feed/@nitinkumargove" htmlUrl="https://medium.com/@nitinkumargove?source=rss-6c2f074bf373------2"/>
       <outline text="Patryk Poborca" title="Patryk Poborca" type="rss" xmlUrl="https://medium.com/feed/@patrykpoborca" htmlUrl="https://medium.com/@patrykpoborca?source=rss-ef5bf72f8620------2"/>
@@ -108,6 +109,7 @@
       <outline text="The Cheese Factory's Blog (English)" title="The Cheese Factory's Blog (English)" type="rss" xmlUrl="http://inthecheesefactory.com/blog/en/rss.xml" htmlUrl="http://inthecheesefactory.com/blog/en"/>
       <outline text="Mindorks" title="Mindorks" type="rss" xmlUrl="https://blog.mindorks.com/feed" htmlUrl="https://blog.mindorks.com/?source=rss----f1a763fc7443---4"/>
       <outline text="Novoda" title="Novoda" type="rss" xmlUrl="http://novoda.com/blog/rss/" htmlUrl="http://novoda.com/blog/"/>
+      <outline text="Babylon Health" title="Babylon Health" type="rss" xmlUrl="https://blog.babylonhealth.com/feed" htmlUrl="https://blog.babylonhealth.com/?source=rss----eca3500318b9---4"/>
     </outline>
     <outline text="Blogs - Other" title="Blogs - Other">
       <outline text="Ray Wenderlich" title="Ray Wenderlich" type="rss" xmlUrl="http://feeds.feedburner.com/RayWenderlich" htmlUrl="http://www.raywenderlich.com/"/>

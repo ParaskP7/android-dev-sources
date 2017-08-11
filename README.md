@@ -127,6 +127,7 @@ Keep up to date with the latest and greatest in Android.
 |  | The Cheese Factory | https://inthecheesefactory.com/blog |
 |  | Mindorks | https://blog.mindorks.com |
 |  | Novoda | https://www.novoda.com/blog |
+|  | Babylon Health | https://blog.babylonhealth.com |
 | Blogs | Other |  |
 |  | Ray Wenderlich | https://www.raywenderlich.com/category/android |
 |  | TechBeacon | https://techbeacon.com/mobile |
