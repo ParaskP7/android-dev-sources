@@ -144,12 +144,13 @@ Keep up to date with the latest and greatest in Android.
 | YouTube | Channels |  |
 |  | Android Developers | https://www.youtube.com/user/androiddevelopers |
 |  | Android Dialogs | https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug |
-|  | Google Developers | https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw |
-|  | Firebase | https://www.youtube.com/channel/UCP4bf6IHJJQehibu6ai__cg |
-|  | JetBrainsTV | https://www.youtube.com/channel/UCGp4UBwpTNegd_4nCpuBcow |
+|  | Google Developers | https://www.youtube.com/user/GoogleDevelopers |
+|  | Firebase | https://www.youtube.com/user/Firebase |
+|  | JetBrainsTV | https://www.youtube.com/user/JetBrainsTV |
 |  | SquareEngineering | https://www.youtube.com/user/SquareEngineering |
 |  | Square Island | https://www.youtube.com/channel/UCtdDoUTSw0tkvtro98Xu35g |
-|  | touchlab | https://www.youtube.com/channel/UC_LIW0OUdsRI21D0xnWkexw |
+|  | Touchlab | https://www.youtube.com/channel/UC_LIW0OUdsRI21D0xnWkexw |
+|  | Slidenerd | https://www.youtube.com/user/slidenerd |
 | YouTube | Search & Find |  |
 |  | [Google IO Android](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp) |  |
 |  | [Firebase IO Android](https://www.youtube.com/playlist?list=PLl-K7zZEsYLma7gxYxtEwO1rsAPn7wkV_) |  |
