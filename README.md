@@ -98,6 +98,10 @@ Keep up to date with the latest and greatest in Android.
 |  | Pro Android Dev | https://proandroiddev.com |
 |  | Android DEV | https://medium.com/tag/androiddev |
 |  | Android Pub | https://android.jlelse.eu |
+|  | Android Friendly | https://android.i-visionblog.com |
+|  | Fueled Android | https://medium.com/fueled-android |
+|  | Heetch Engineering | https://eng.heetch.com |
+|  | Mobile Engineering | https://medium.com/mobile-engineering |
 |  | Chet Haase | https://medium.com/@chethaase |
 |  | Florina Muntenescu | https://medium.com/@florina.muntenescu |
 |  | NitinKumar Gove | https://medium.com/@nitinkumargove |
