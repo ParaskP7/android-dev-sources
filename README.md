@@ -33,7 +33,6 @@ Keep up to date with the latest and greatest in Android.
 |  | Native Wheelhouse | https://nativewheel.house |
 | Websites/Subscriptions |  |  |
 |  | Kotlin Weekly | http://www.kotlinweekly.net |
-|  | Super Kotlin | https://superkotlin.com |
 |  | Android Weekly | http://androidweekly.net |
 |  | Android Dev Digest | https://www.androiddevdigest.com |
 |  | InfoQ | https://www.infoq.com/android |
@@ -59,11 +58,14 @@ Keep up to date with the latest and greatest in Android.
 |  | Martin Fowler | https://martinfowler.com |
 | Blogs | Kotlin |  |
 |  | JetBrains | https://blog.jetbrains.com/kotlin |
+|  | Super Kotlin | https://superkotlin.com |
+|  | Kotlin Development | https://www.kotlindevelopment.com |
 |  | Hadi Hariri | http://hadihariri.com |
 |  | Antonio Leiva | https://antonioleiva.com/category/blog |
 |  | Jim Baca | http://blog.jimbaca.com |
 |  | Simon Wirtz | https://blog.simon-wirtz.de |
 |  | Tonic Artos | http://www.tonicartos.nz |
+|  | Philipp Hauer | https://blog.philipphauer.de |
 | Blogs | Reactive |  |
 |  | Advanced Reactive Java | http://akarnokd.blogspot.de |
 | Blogs | Developers |  |

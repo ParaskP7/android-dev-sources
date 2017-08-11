@@ -9,6 +9,7 @@
       <outline text="AndroidDev" title="AndroidDev" type="rss" xmlUrl="https://www.reddit.com/r/androiddev/.rss" htmlUrl="https://www.reddit.com/r/androiddev/"/>
     </outline>
     <outline text="Android Podcasts" title="Android Podcasts">
+      <outline text="Android Snacks" title="Android Snacks" type="rss" xmlUrl="https://androidsnacks.wordpress.com/feed/" htmlUrl="https://androidsnacks.wordpress.com/"/>
       <outline text="Talking Kotlin" title="Talking Kotlin" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:280353173/sounds.rss" htmlUrl="http://talkingkotlin.com/"/>
       <outline text="Fragmented" title="Fragmented" type="rss" xmlUrl="http://fragmentedpodcast.com/feed/" htmlUrl="http://fragmentedpodcast.com/"/>
       <outline text="Android Developers Backstage" title="Android Developers Backstage" type="rss" xmlUrl="http://androidbackstage.blogspot.com/feeds/posts/default" htmlUrl="http://androidbackstage.blogspot.com/"/>
@@ -16,11 +17,9 @@
       <outline text="Native Wheelhouse" title="Native Wheelhouse" type="rss" xmlUrl="https://rss.simplecast.com/podcasts/2348/rss" htmlUrl="https://nativewheel.house/"/>
     </outline>
     <outline text="Android Summary" title="Android Summary">
-      <outline text="Android Snacks" title="Android Snacks" type="rss" xmlUrl="https://androidsnacks.wordpress.com/feed/" htmlUrl="https://androidsnacks.wordpress.com/"/>
       <outline text="Kotlin Weekly" title="Kotlin Weekly" type="rss" xmlUrl="http://us12.campaign-archive2.com/feed?u=f39692e245b94f7fb693b6d82&amp;id=93b2272cb6" htmlUrl="http://us12.campaign-archive.com/feed?u=f39692e245b94f7fb693b6d82&amp;id=93b2272cb6"/>
-      <outline text="SuperKotlin" title="SuperKotlin" type="rss" xmlUrl="https://superkotlin.com/feed/" htmlUrl="https://superkotlin.com/"/>
       <outline text="Android Weekly" title="Android Weekly" type="rss" xmlUrl="http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19" htmlUrl="http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19"/>
-      <outline text="#AndroidDev Digest" title="#AndroidDev Digest" type="rss" xmlUrl="https://www.androiddevdigest.com/feed/" htmlUrl="https://www.androiddevdigest.com/"/>
+      <outline text="Android Dev Digest" title="Android Dev Digest" type="rss" xmlUrl="https://www.androiddevdigest.com/feed/" htmlUrl="https://www.androiddevdigest.com/"/>
       <outline text="InfoQ - Android" title="InfoQ - Android" type="rss" xmlUrl="https://www.infoq.com/feed/android" htmlUrl="http://www.infoq.com/"/>
     </outline>
     <outline text="Android Tutorials" title="Android Tutorials">
@@ -44,10 +43,13 @@
     </outline>
     <outline text="Blogs - Kotlin" title="Blogs - Kotlin">
       <outline text="Kotlin Blog" title="Kotlin Blog" type="rss" xmlUrl="https://blog.jetbrains.com/kotlin/feed/" htmlUrl="http://blog.jetbrains.com/kotlin"/>
+      <outline text="SuperKotlin" title="SuperKotlin" type="rss" xmlUrl="https://superkotlin.com/feed/" htmlUrl="https://superkotlin.com/"/>
+      <outline text="Kotlin Development" title="Kotlin Development" type="rss" xmlUrl="https://www.kotlindevelopment.com/feed/" htmlUrl="https://www.kotlindevelopment.com/"/>
       <outline text="Hadi Hariri" title="Hadi Hariri" type="rss" xmlUrl="http://hadihariri.com/feed.xml" htmlUrl="http://hadihariri.com/feed.xml"/>
       <outline text="Antonio Leiva" title="Antonio Leiva" type="rss" xmlUrl="http://antonioleiva.com/feed/" htmlUrl="http://antonioleiva.com/"/>
       <outline text="Jim Baca" title="Jim Baca" type="rss" xmlUrl="http://blog.jimbaca.com/feed/" htmlUrl="http://blog.jimbaca.com/"/>
       <outline text="Tonic Artos" title="Tonic Artos" type="rss" xmlUrl="http://www.tonicartos.nz/feeds/posts/default" htmlUrl="http://www.tonicartos.nz/"/>
+      <outline text="Philipp Hauer's Blog" title="Philipp Hauer's Blog" type="rss" xmlUrl="https://blog.philipphauer.de/index.xml" htmlUrl="https://blog.philipphauer.de/"/>
     </outline>
     <outline text="Blogs - Reactive" title="Blogs - Reactive">
       <outline text="Advanced RxJava" title="Advanced RxJava" type="rss" xmlUrl="http://akarnokd.blogspot.com/feeds/posts/default" htmlUrl="http://akarnokd.blogspot.com/"/>
