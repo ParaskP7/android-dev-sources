@@ -240,6 +240,7 @@ Keep up to date with the latest and greatest in Android.
 |  | Exposed | https://github.com/JetBrains/Exposed |
 | One Library Per Month | Android |  |
 |  | Android Architecture Components | https://developer.android.com/topic/libraries/architecture/index.html |
+|  | Firebase Realtime Database | https://firebase.google.com/docs/database |
 |  | DataBinding | https://developer.android.com/topic/libraries/data-binding/index.html |
 |  | RxJava | https://github.com/ReactiveX/RxJava |
 |  | Dagger | https://github.com/google/dagger |
@@ -261,6 +262,8 @@ Keep up to date with the latest and greatest in Android.
 |  | Lottie | https://github.com/airbnb/lottie-android |
 |  | Timber | https://github.com/JakeWharton/timber |
 |  | Hugo | https://github.com/JakeWharton/hugo |
+|  | JobDispatcher | https://github.com/firebase/firebase-jobdispatcher-android |
+|  | WilliamChart | https://github.com/diogobernardino/WilliamChart |
 | One Platform Per Quarter |  |  |
 |  | Firebase | https://firebase.google.com |
 |  | Fabric | https://get.fabric.io |
