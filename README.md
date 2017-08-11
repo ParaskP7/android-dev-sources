@@ -227,6 +227,7 @@ Keep up to date with the latest and greatest in Android.
 | One Library Per Month | Kotlin |  |
 |  | Anko | https://github.com/Kotlin/anko |
 |  | RxKotlin | https://github.com/ReactiveX/RxKotlin |
+|  | Kodein | https://github.com/SalomonBrys/Kodein |
 |  | Kotlin Coroutines| https://github.com/Kotlin/kotlinx.coroutines |
 |  | KotterKnife | https://github.com/JakeWharton/kotterknife |
 |  | SQLDelight | https://github.com/square/sqldelight |
