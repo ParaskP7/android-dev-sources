@@ -191,7 +191,7 @@ Keep up to date with the latest and greatest in Android.
 |  | Android O | https://developer.android.com/preview/index.html |
 |  | Android Studio 3.0 | https://developer.android.com/studio/preview/index.html |
 |  | Kotlin 1.1.4 EAP | https://discuss.kotlinlang.org/t/kotlin-1-1-4-eap/3721 |
-|  | Kotlin 1.2 EAP | https://blog.jetbrains.com/kotlin/2017/06/early-access-program-for-kotlin-1-2-has-been-started/ |
+|  | Kotlin 1.2 EAP | https://blog.jetbrains.com/kotlin/2017/06/early-access-program-for-kotlin-1-2-has-been-started |
 | GitHub Projects | Kotlin |  |
 |  | What's Trending in Kotlin | https://github.com/trending/kotlin |
 |  | Awesome Kotlin | https://github.com/KotlinBy/awesome-kotlin |
