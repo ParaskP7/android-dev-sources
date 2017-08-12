@@ -343,7 +343,8 @@ Keep up to date with the latest and greatest in Android.
 |  | List of Free Software Testing Resources | https://github.com/ligurio/free-software-testing-books |
 | Productivity | Android Studio |  |
 |  | Key Promoter | Android Studio Plugin |
-|  | ADB IDEA | Android Studio Plugin |
+|  | ADB Idea | Android Studio Plugin |
+|  | ADB WiFi Connect | Android Studio Plugin |
 |  | Ace Jump | Android Studio Plugin |
 |  | Android Studio for Experts | https://medium.com/@shemag8/android-studio-for-experts-cheat-sheet-efe892703d97#.fqwwmsifm |
 |  | Android Studio Like a Pro | https://stanfy.com/blog/use-android-studio-like-a-pro |
