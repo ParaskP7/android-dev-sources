@@ -53,6 +53,7 @@ Keep up to date with the latest and greatest in Android.
 |  | Weeby Network | https://weebynetwork.com/blog |
 | Android | Libraries |  |
 |  | Android Arsenal | http://android-arsenal.com |
+|  | Kotlin Resources | https://www.kotlinresources.com/tag/android |
 | Blogs | Grandmasters |  |
 |  | The Clean Code | http://blog.cleancoder.com |
 |  | Martin Fowler | https://martinfowler.com |
