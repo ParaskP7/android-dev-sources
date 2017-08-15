@@ -108,6 +108,7 @@ Keep up to date with the latest and greatest in Android.
 |  | Hacker Noon | https://hackernoon.com |
 |  | Chet Haase | https://medium.com/@chethaase |
 |  | Florina Muntenescu | https://medium.com/@florina.muntenescu |
+|  | George Mount | https://medium.com/@georgemount007 |
 |  | NitinKumar Gove | https://medium.com/@nitinkumargove |
 |  | Patryk Poborca | https://medium.com/@patrykpoborca |
 |  | César Ferreira | https://medium.com/@cesarmcferreira |
