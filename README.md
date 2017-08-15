@@ -195,7 +195,7 @@ Keep up to date with the latest and greatest in Android.
 | Slack | Local Community |  |
 |  | ADG Berlin | adg-berlin.slack.com |
 |  | Android Dev Brazil | androiddevbr.slack.com |
-|  | Greek Android Developers | androiddevs-gr.slack.com |
+|  | Greek Android Developers | gdgandroidathens.slack.com |
 | Previews/EAP |  |  |
 |  | Android O | https://developer.android.com/preview/index.html |
 |  | Android Studio 3.0 | https://developer.android.com/studio/preview/index.html |
