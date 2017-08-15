@@ -368,6 +368,9 @@ Keep up to date with the latest and greatest in Android.
 |  | 30+ Bite-Sized Pro Tips to Become a Better Android Developer | https://blog.aritraroy.in/30-bite-sized-pro-tips-to-become-a-better-android-developer-b311fd641089 |
 | Productivity | Getting Started |  |
 |  | Resources for Getting Started with Modern Android Development | https://riggaroo.co.za/resources-getting-started-android-development |
+| Productivity | Interviews |  |
+|  | Android Interview Questions | https://github.com/MindorksOpenSource/android-interview-questions |
+|  | The top Internet companies android interview questions and answers | https://github.com/JackyAndroid/AndroidInterview-Q-A |
 
 ### Contributing guidelines
 
