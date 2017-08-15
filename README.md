@@ -366,6 +366,8 @@ Keep up to date with the latest and greatest in Android.
 |  | How to become a better Android developer: 30+ bite-sized pro tips | https://techbeacon.com/how-become-better-android-developer-30-bite-sized-pro-tips |
 |  | 30+ Kickass Tools to Develop Android Apps Like a Pro | https://blog.aritraroy.in/30-kickass-tools-to-develop-android-apps-like-a-pro-191e52b9419b |
 |  | 30+ Bite-Sized Pro Tips to Become a Better Android Developer | https://blog.aritraroy.in/30-bite-sized-pro-tips-to-become-a-better-android-developer-b311fd641089 |
+| Productivity | Getting Started |  |
+|  | Resources for Getting Started with Modern Android Development | https://riggaroo.co.za/resources-getting-started-android-development |
 
 ### Contributing guidelines
 
