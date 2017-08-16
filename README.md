@@ -105,7 +105,6 @@ Keep up to date with the latest and greatest in Android.
 |  | Fueled Android | https://medium.com/fueled-android |
 |  | Heetch Engineering | https://eng.heetch.com |
 |  | Mobile Engineering | https://medium.com/mobile-engineering |
-|  | Hacker Noon | https://hackernoon.com |
 |  | Chet Haase | https://medium.com/@chethaase |
 |  | Florina Muntenescu | https://medium.com/@florina.muntenescu |
 |  | George Mount | https://medium.com/@georgemount007 |
