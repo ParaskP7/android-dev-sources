@@ -44,6 +44,7 @@ Keep up to date with the latest and greatest in Android.
 |  | Speaker Deck | https://speakerdeck.com |
 |  | Android Hive | https://www.androidhive.info |
 |  | Vogella | http://www.vogella.com/tutorials/android.html |
+|  | Ray Wenderlich | https://www.raywenderlich.com/category/android |
 | Android | Design |  |
 |  | Android Design Patterns | http://www.androiddesignpatterns.com |
 |  | UpLabs Material | https://www.uplabs.com/material |
@@ -131,7 +132,6 @@ Keep up to date with the latest and greatest in Android.
 |  | Novoda | https://www.novoda.com/blog |
 |  | Babylon Health | https://blog.babylonhealth.com |
 | Blogs | Other |  |
-|  | Ray Wenderlich | https://www.raywenderlich.com/category/android |
 |  | TechBeacon | https://techbeacon.com/mobile |
 |  | Mike Cohn | https://www.mountaingoatsoftware.com/blog |
 |  | Coding Horror | https://blog.codinghorror.com |
