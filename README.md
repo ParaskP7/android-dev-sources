@@ -344,6 +344,7 @@ Keep up to date with the latest and greatest in Android.
 |  | List of Free Learning Resources | https://github.com/EbookFoundation/free-programming-books |
 |  | List of Free Software Testing Resources | https://github.com/ligurio/free-software-testing-books |
 | Productivity | Android Studio |  |
+|  | Android Studio Plugins | https://github.com/balsikandar/Android-Studio-Plugins |
 |  | Key Promoter | Android Studio Plugin |
 |  | ADB Idea | Android Studio Plugin |
 |  | ADB WiFi Connect | Android Studio Plugin |
