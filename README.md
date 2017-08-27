@@ -273,6 +273,9 @@ Keep up to date with the latest and greatest in Android.
 |  | Hugo | https://github.com/JakeWharton/hugo |
 |  | JobDispatcher | https://github.com/firebase/firebase-jobdispatcher-android |
 |  | WilliamChart | https://github.com/diogobernardino/WilliamChart |
+| One Library Per Month | Gradle Plugin |  |
+|  | Gradle Versions Plugin | https://github.com/ben-manes/gradle-versions-plugin |
+|  | Dexcount Gradle Plugin | https://github.com/KeepSafe/dexcount-gradle-plugin |
 | One Library Per Month | Static Analysis |  |
 |  | Lint | https://developer.android.com/studio/write/lint.html |
 |  | Detekt | https://github.com/arturbosch/detekt |
